@@ -1,0 +1,177 @@
+[
+  {
+    "index": 0,
+    "id": "tee-alpine",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: An oversized premium white cotton T-shirt with a tasteful small rectangular abstract mountain landscape screen print in muted green and terracotta on chest, relaxed short sleeves, thick ribbed crewneck; back entirely plain white.",
+    "asset": "public/images/catalog/product-00-{front,back}.webp"
+  },
+  {
+    "index": 1,
+    "id": "tee-cards",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A dusty pink heavyweight cotton T-shirt with an original minimal black geometric overlapping playing-card outline motif on left chest (no text or trademark), boxy cropped length, clean dropped shoulders; plain pink back.",
+    "asset": "public/images/catalog/product-01-{front,back}.webp"
+  },
+  {
+    "index": 2,
+    "id": "tee-essential",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A luxury ivory ecru mercerized cotton crewneck T-shirt with no graphics, tailored relaxed silhouette, refined double stitched hem and rich fabric texture.",
+    "asset": "public/images/catalog/product-02-{front,back}.webp"
+  },
+  {
+    "index": 3,
+    "id": "hoodie-earth",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A warm terracotta full cotton pullover hoodie, modern relaxed oversized fit, substantial layered hood, tonal flat drawcords, kangaroo pocket, sculptural curved paneling, no print.",
+    "asset": "public/images/catalog/product-03-{front,back}.webp"
+  },
+  {
+    "index": 4,
+    "id": "sweat-horizon",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A premium slate blue French terry crewneck sweatshirt (NO hood), slightly oversized menswear silhouette, dropped shoulders, thick ribbed cuffs and hem, tonal flatlock seam detailing, no print.",
+    "asset": "public/images/catalog/product-04-{front,back}.webp"
+  },
+  {
+    "index": 5,
+    "id": "hoodie-studio",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A pearl grey cropped fashion hoodie with a wide silhouette, architectural double-layer hood, balloon sleeves, a clean kangaroo pocket, tonal drawstrings, heavyweight cotton, no print.",
+    "asset": "public/images/catalog/product-05-{front,back}.webp"
+  },
+  {
+    "index": 6,
+    "id": "shirt-medina",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A premium warm natural sand linen button-up shirt, straight relaxed unisex cut, mother of pearl buttons, pointed soft collar, long sleeves, subtle chest patch pocket, rich breathable linen weave.",
+    "asset": "public/images/catalog/product-06-{front,back}.webp"
+  },
+  {
+    "index": 7,
+    "id": "shirt-aube",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A refined women's ivory cotton poplin blouse with sculptural billowy sleeves, slim stand collar, concealed button placket and soft gathered back yoke, graceful and high-fashion.",
+    "asset": "public/images/catalog/product-07-{front,back}.webp"
+  },
+  {
+    "index": 8,
+    "id": "shirt-riviera",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A men's cream and deep olive thin vertically striped textured cotton shirt, short camp collar, short sleeves, straight relaxed Riviera tailoring, high quality real woven striped fabric.",
+    "asset": "public/images/catalog/product-08-{front,back}.webp"
+  },
+  {
+    "index": 9,
+    "id": "jacket-atelier",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A women's sand taupe linen-blend blazer, contemporary single-breasted oversized tailoring, two dark horn buttons, notch lapels, welt breast pocket and two flap pockets; perfectly matching plain tailored back.",
+    "asset": "public/images/catalog/product-09-{front,back}.webp"
+  },
+  {
+    "index": 10,
+    "id": "blazer-casablanca",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A men's deep midnight black tailored wool blazer, understated luxury, structured natural shoulders, single breasted two buttons, notch lapels, refined welt pockets and subtle wool grain, rear double vent.",
+    "asset": "public/images/catalog/product-10-{front,back}.webp"
+  },
+  {
+    "index": 11,
+    "id": "jacket-nomade",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: An olive cotton canvas chore jacket, unisex structured workwear fit, pointed collar, four matte dark buttons, three large patch pockets, substantial double stitched seams and rich washed canvas texture.",
+    "asset": "public/images/catalog/product-11-{front,back}.webp"
+  },
+  {
+    "index": 12,
+    "id": "pants-dune",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: Women's warm sand fluid wide-leg high-waisted trousers with two front pleats, belt loops, tailored waistband, full long loose legs, refined linen cotton fabric and neat back welt pockets.",
+    "asset": "public/images/catalog/product-12-{front,back}.webp"
+  },
+  {
+    "index": 13,
+    "id": "pants-epure",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: Men's charcoal grey straight-leg tailored wool trousers with crisp creases, understated waistband, side slant pockets, belt loops, full legs, fine suiting fabric, two clean rear welt pockets.",
+    "asset": "public/images/catalog/product-13-{front,back}.webp"
+  },
+  {
+    "index": 14,
+    "id": "pants-rivage",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: Unisex olive relaxed cotton twill trousers, subtle barrel leg shape, elastic rear waistband, front button closure and belt loops, deep side pockets, contemporary utility tailoring without cargo pockets.",
+    "asset": "public/images/catalog/product-14-{front,back}.webp"
+  },
+  {
+    "index": 15,
+    "id": "dress-lumiere",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A women's elegant warm ivory midi dress in textured natural linen, sleeveless broad straps, square neckline, fitted bodice and softly flared flowing skirt, subtle rear invisible zip, refined summer architectural fashion.",
+    "asset": "public/images/catalog/product-15-{front,back}.webp"
+  },
+  {
+    "index": 16,
+    "id": "dress-sillage",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A women's deep espresso brown satin bias-cut midi dress, slender adjustable spaghetti straps, softly draped cowl neckline, graceful natural sheen, fluid hem, minimal premium evening fashion, matching simple back.",
+    "asset": "public/images/catalog/product-16-{front,back}.webp"
+  },
+  {
+    "index": 17,
+    "id": "dress-patio",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A women's earthy terracotta cotton poplin midi shirt dress, short sleeves, crisp collar, tonal full length buttons, matching fabric waist belt, elegant A-line skirt with subtle pleats, same belt visible from rear.",
+    "asset": "public/images/catalog/product-17-{front,back}.webp"
+  },
+  {
+    "index": 18,
+    "id": "set-meridien",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A women's matching natural sand linen two-piece coordinated trouser suit: relaxed sleeveless waistcoat with three horn buttons AND matching wide-leg full-length trousers. Both garments presented together as one complete hanging coordinated look, consistent front and back.",
+    "asset": "public/images/catalog/product-18-{front,back}.webp"
+  },
+  {
+    "index": 19,
+    "id": "set-latitude",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A men's matching dark olive cotton-linen two-piece coordinated set: short sleeve camp-collar button-up shirt AND matching straight tailored trousers. Both presented together as a single complete hanging coordinated look, consistent front and back.",
+    "asset": "public/images/catalog/product-19-{front,back}.webp"
+  },
+  {
+    "index": 20,
+    "id": "set-heure-douce",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: A unisex matching pearl stone textured cotton lounge two-piece set: refined long sleeve half-zip collar sweatshirt AND matching relaxed drawstring wide-leg trousers, both presented together as one hanging coordinated look, soft luxury loungewear, consistent front and back.",
+    "asset": "public/images/catalog/product-20-{front,back}.webp"
+  },
+  {
+    "index": 21,
+    "id": "bag-quotidien",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: One premium large natural beige cotton canvas tote bag with dark espresso saddle leather double handles, structured flat base, subtle reinforced leather corner panels, beautiful heavy canvas grain and real stitching, no words or logos. Front and rear elevations of exactly the same bag.",
+    "asset": "public/images/catalog/product-21-{front,back}.webp"
+  },
+  {
+    "index": 22,
+    "id": "scarf-nuage",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: One elegant oatmeal cashmere wool scarf, plush realistic fuzzy weave and delicate tassel fringe at both ends, loosely draped vertically to show full generous length without coiling into a pile. Front and reverse of the same exact scarf.",
+    "asset": "public/images/catalog/product-22-{front,back}.webp"
+  },
+  {
+    "index": 23,
+    "id": "bag-traversee",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: product-mockup. Asset: high-end fashion ecommerce catalogue for MAISON ÉDIT. Generate a PHOTOREALISTIC studio product photograph contact sheet: EXACTLY TWO equally sized square panels side by side on a fully transparent alpha background. LEFT panel: complete FRONT view. RIGHT panel: complete BACK view of exactly the SAME product, not a second design. Both at identical scale, material, color, proportions, construction and light. Nothing cut off; leave 7% clean margin around the entire item in each square. True tactile fabric grain, stitching, seams, realistic weight, natural folds, premium construction and soft diffused studio lighting. No model, no mannequin, no human, no drawn/illustrated/vector/CGI look, no words, no caption, no panel divider, no frame, no watermark, no third party logo. Do NOT add extra products or accessories. Clothes should hang naturally on a refined walnut wooden hanger (pants can use a slim clip hanger); accessories should be isolated professionally without hangers. Product design: One refined small cognac brown pebbled leather crossbody saddle bag, curved flap front, discreet brushed brass clasp, adjustable long leather strap arranged gracefully alongside, impeccable saddle stitching, no logos. Front and rear views of the exact same bag.",
+    "asset": "public/images/catalog/product-23-{front,back}.webp"
+  },
+  {
+    "index": 9,
+    "id": "jacket-atelier-olive",
+    "tool": "built-in image_gen",
+    "prompt": "Use case: precise-object-edit. The reference is the EDIT TARGET, a two-panel studio contact sheet of one sand linen blazer, front on the left and back on the right. Change ONLY the blazer fabric colour in BOTH panels to a sophisticated muted deep olive green (#727a55), with realistic linen weave and the original subtle shading preserved. Keep absolutely identical tailoring, lapels, all pocket positions and sizes, button count and placement, wooden hanger, front/back poses, scale, framing, material grain and silhouette. Keep both panels, do not crop either blazer. Preserve true alpha transparency around the subjects; clean transparent edges without colored fringes. No text, labels, background or new details.",
+    "asset": "public/images/catalog/product-09-olive-{front,back}.webp"
+  }
+]

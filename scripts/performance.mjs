@@ -1,0 +1,5 @@
+import lighthouse from 'lighthouse';
+import * as chromeLauncher from 'chrome-launcher';
+import { writeFileSync } from 'node:fs';
+const chrome=await chromeLauncher.launch({chromePath:process.env.CHROME_PATH||'C:/Users/pc/AppData/Local/ms-playwright/chromium-1254/chrome-win64/chrome.exe',chromeFlags:['--headless','--no-sandbox','--disable-gpu']});
+try{for(const [name,path] of [['home','/'],['collection','/collection'],['product','/produit/veste-atelier']]){const r=await lighthouse('http://127.0.0.1:3107'+path,{port:chrome.port,output:['json','html'],onlyCategories:['performance','accessibility','best-practices','seo'],logLevel:'error'});writeFileSync(`docs/lighthouse-${name}.json`,r.report[0]);writeFileSync(`docs/lighthouse-${name}.html`,r.report[1]);console.log(JSON.stringify({page:name,scores:Object.fromEntries(Object.entries(r.lhr.categories).map(([k,v])=>[k,v.score])),LCP:r.lhr.audits['largest-contentful-paint'].numericValue,CLS:r.lhr.audits['cumulative-layout-shift'].numericValue,TBT:r.lhr.audits['total-blocking-time'].numericValue}));}}finally{await chrome.kill();}

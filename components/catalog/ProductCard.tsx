@@ -1,0 +1,12 @@
+'use client';
+import Image from 'next/image';
+import Link from 'next/link';
+import { Heart, Plus, ArrowUpRight } from 'lucide-react';
+import { useState } from 'react';
+import type { Product } from '@/types/product';
+import { useStore } from '@/components/cart/StoreProvider';
+import { Modal } from '@/components/layout/Modal';
+import { ProductOptions } from '@/components/product/ProductOptions';
+import { money } from '@/data/brand';
+export function ProductCard({product:p,index=0}:{product:Product;index?:number}){const s=useStore();const [quick,setQuick]=useState(false),[color,setColor]=useState(0);const c=p.colors[color];return <article className="product-card"><div className={`product-image tone-${index%4}`}><Link href={`/produit/${p.slug}`} className="product-image-link" aria-label={`Découvrir ${p.name}`}><Image src={c.image} alt={`${p.name} — ${c.name}`} fill sizes="(max-width:600px) 45vw, (max-width:1000px) 30vw, 24vw" className="product-front"/>{c.back&&<Image src={c.back} alt="" fill sizes="(max-width:600px) 45vw, 24vw" className="product-back"/>}</Link><span className="product-badge">{p.status}</span><button className={`icon-button card-heart ${s.favorites.includes(p.id)?'is-favorite':''}`} aria-label={`${s.favorites.includes(p.id)?'Retirer':'Ajouter'} ${p.name} ${s.favorites.includes(p.id)?'des':'aux'} favoris`} aria-pressed={s.favorites.includes(p.id)} onClick={()=>s.toggleFavorite(p.id)}><Heart size={17}/></button><button className="quick-add" onClick={()=>setQuick(true)} aria-label={`Aperçu & ajout rapide — ${p.name}`}><span>Aperçu & ajout rapide</span><Plus size={17}/></button></div><div className="card-meta"><Link href={`/produit/${p.slug}`}>{p.name}</Link><span>{money(p.price)}</span></div><div className="card-bottom"><p>{p.category} · {c.name}</p><div className="mini-swatches">{p.colors.map((c,i)=><button key={c.name} aria-label={`${p.name}, couleur ${c.name}`} aria-pressed={color===i} style={{background:c.hex}} onClick={()=>setColor(i)}/>)}</div></div><Modal open={quick} onClose={()=>setQuick(false)} title="Une pièce, votre façon de la porter"><div className="quick-layout"><div className="quick-image"><Image src={c.image} alt={p.name} fill sizes="(max-width:700px) 45vw, 350px"/></div><div><ProductOptions product={p} colorIndex={color} onColor={setColor} compact/><Link className="text-link small" href={`/produit/${p.slug}`} onClick={()=>setQuick(false)}>Voir tous les détails <ArrowUpRight size={14}/></Link></div></div></Modal></article>;}
+

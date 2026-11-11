@@ -1,0 +1,2 @@
+export const brand = { name: 'MAISON ÉDIT', currency: 'MAD', city: 'Casablanca, Maroc', season: 'Automne — Hiver 2026', instagram: null, whatsapp: null, email: null, delivery: 45, colors: { cream: '#F4F0E9', ink: '#171717', taupe: '#B8A58E', olive: '#787F69', stone: '#E2DDD4' } };
+export const money = (value: number) => new Intl.NumberFormat('fr-MA', { maximumFractionDigits: 0 }).format(value) + ' MAD';

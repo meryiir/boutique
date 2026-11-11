@@ -1,0 +1,15 @@
+'use client';
+import { createContext, useContext, useEffect, useState, useCallback, type ReactNode } from 'react';
+import { products } from '@/data/products';
+import type { CartLine, Product } from '@/types/product';
+type Store = { cart: CartLine[]; favorites: string[]; cartOpen: boolean; setCartOpen: (v: boolean)=>void; add: (p: Product,color: string,size: string)=>boolean; update: (index: number,quantity: number)=>void; toggleFavorite: (id: string)=>void; clear: ()=>void; total: number; count: number; notice: string; hydrated: boolean };
+const Context = createContext<Store | null>(null);
+export function StoreProvider({ children }: { children: ReactNode }) {
+  const [cart,setCart]=useState<CartLine[]>([]),[favorites,setFavorites]=useState<string[]>([]),[cartOpen,setCartOpen]=useState(false),[hydrated,setHydrated]=useState(false),[notice,setNotice]=useState('');
+  useEffect(()=>{try { const raw: unknown=JSON.parse(localStorage.getItem('edit-cart')||'[]');if(Array.isArray(raw))setCart(raw.filter((l): l is CartLine=>{ const p=products.find(p=>p.id===l?.productId); return !!p && typeof l.color==='string' && typeof l.size==='string' && p.variants.some(v=>v.color===l.color&&v.size===l.size&&v.stock>0) && Number.isInteger(l.quantity)&&l.quantity>0&&l.quantity<=4; })); const f: unknown=JSON.parse(localStorage.getItem('edit-favorites')||'[]');if(Array.isArray(f))setFavorites(f.filter((id): id is string=>typeof id==='string'&&products.some(p=>p.id===id))); }catch{}setHydrated(true);},[]);
+  useEffect(()=>{if(hydrated)try{localStorage.setItem('edit-cart',JSON.stringify(cart));localStorage.setItem('edit-favorites',JSON.stringify(favorites));}catch{}},[cart,favorites,hydrated]);
+  useEffect(()=>{if(!notice)return;const t=setTimeout(()=>setNotice(''),3500);return()=>clearTimeout(t);},[notice]);
+  const add=useCallback((p: Product,color: string,size: string)=>{const variant=p.variants.find(v=>v.color===color&&v.size===size);if(!variant||variant.stock<1)return false;const existing=cart.find(l=>l.productId===p.id&&l.color===color&&l.size===size);if(existing&&existing.quantity>=variant.stock){setNotice('Le stock de démonstration est limité à 4 pièces par variante.');return false;}setCart(lines=>{const index=lines.findIndex(l=>l.productId===p.id&&l.color===color&&l.size===size);return index<0?[...lines,{productId:p.id,color,size,quantity:1}]:lines.map((l,i)=>i===index?{...l,quantity:Math.min(variant.stock,l.quantity+1)}:l);});setNotice(`${p.name} ajouté au panier`);setCartOpen(true);return true;},[cart]);
+  return <Context.Provider value={{cart,favorites,cartOpen,setCartOpen,hydrated,notice,add,update:(index,q)=>setCart(lines=>lines.flatMap((l,i)=>i!==index?[l]:q<=0?[]:[{...l,quantity:Math.min(4,q)}])),toggleFavorite:id=>setFavorites(f=>f.includes(id)?f.filter(x=>x!==id):[...f,id]),clear:()=>setCart([]),total:cart.reduce((s,l)=>s+(products.find(p=>p.id===l.productId)?.price||0)*l.quantity,0),count:cart.reduce((s,l)=>s+l.quantity,0)}}>{children}<div className="toast" role="status">{notice}</div></Context.Provider>;
+}
+export function useStore(){const c=useContext(Context);if(!c)throw new Error('StoreProvider missing');return c;}

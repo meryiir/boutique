@@ -1,0 +1,1 @@
+const {readFileSync,writeFileSync}=require('fs');const {compress}=require('wawoff2');(async()=>{for(const name of ['Manrope-Regular','Manrope-SemiBold','CormorantGaramond']){const a=readFileSync(`public/fonts/${name}.ttf`);const b=await compress(a);writeFileSync(`public/fonts/${name}.woff2`,b);console.log(name,a.length,'->',b.length);}})();

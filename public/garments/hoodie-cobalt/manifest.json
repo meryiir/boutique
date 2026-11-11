@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "width": 384,
+  "height": 448,
+  "columns": 4,
+  "frameCount": 8,
+  "pivot": [
+    0.5,
+    0.026785714285714284
+  ],
+  "source": {
+    "kind": "generated-fashion-concept",
+    "tool": "built-in image_gen",
+    "poses": "Eight generated coordinated views from profile to front; not a 3D model or manufactured product.",
+    "original": "generated-sources/cobalt.png"
+  }
+}

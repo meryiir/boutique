@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sweat-horizon",
+    "tool": "built-in image_gen",
+    "intent": "background-extraction",
+    "prompt": "Use case: background-extraction. Edit target: the provided two-panel fashion product contact sheet. Remove the entire opaque light grey/white rectangular paper background and all its outer fringe from BOTH panels. Preserve only the actual garment and wooden/metal hanger in each panel with clean genuinely transparent alpha all around and through the hook opening. Preserve the products EXACTLY, including fabric color, grain, seams, folds, front and back construction, silhouette, pose, scale and placement. Do not redraw or redesign the garment. Keep the two-panel left-front right-back arrangement unchanged. No background rectangle, no floor, no contact shadow on backdrop, no grid or text, no colored fringe.",
+    "reference": "C:\\Users\\pc\\.codex\\generated_images\\01a1cc65-8d88-7620-a3f2-a9c0afbe6de8\\exec-aba31f12-788b-4c42-a11f-fe4ebecdb755.png"
+  },
+  {
+    "id": "shirt-riviera",
+    "tool": "built-in image_gen",
+    "intent": "background-extraction",
+    "prompt": "Use case: background-extraction. Edit target: the provided two-panel fashion product contact sheet. Remove the entire opaque light grey/white rectangular paper background and all its outer fringe from BOTH panels. Preserve only the actual garment and wooden/metal hanger in each panel with clean genuinely transparent alpha all around and through the hook opening. Preserve the products EXACTLY, including fabric color, grain, seams, folds, front and back construction, silhouette, pose, scale and placement. Do not redraw or redesign the garment. Keep the two-panel left-front right-back arrangement unchanged. No background rectangle, no floor, no contact shadow on backdrop, no grid or text, no colored fringe.",
+    "reference": "C:\\Users\\pc\\.codex\\generated_images\\01a1cc65-8d88-7620-a3f2-a9c0afbe6de8\\exec-e18d54e1-48bf-4e9a-9ebf-e4ad757fba07.png"
+  }
+]
