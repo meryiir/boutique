@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-14T21:30:16.253Z",
+  "provider": "free",
+  "mannequin": "femme plastique",
+  "source": "Photos du catalogue de démonstration importées via HTTP",
+  "records": [
+    {
+      "label": "import Hoodie Sable",
+      "path": "/import",
+      "status": 201,
+      "seconds": 0.07,
+      "value": {
+        "id": "bf75cae6-1ed0-4e42-8b2f-17d9c45eb551"
+      }
+    },
+    {
+      "label": "import Pantalon Dune",
+      "path": "/import",
+      "status": 201,
+      "seconds": 0.05,
+      "value": {
+        "id": "2ad7deb7-aad2-44c7-894b-32cbab87b898"
+      }
+    },
+    {
+      "label": "import Pantalon Rivage",
+      "path": "/import",
+      "status": 201,
+      "seconds": 0.05,
+      "value": {
+        "id": "592c024f-afe0-413b-80b1-9f9114510056"
+      }
+    },
+    {
+      "label": "import T-shirt Wild Cards",
+      "path": "/import",
+      "status": 201,
+      "seconds": 0.05,
+      "value": {
+        "id": "1fbb9391-4e56-4567-b896-33e213e06d71"
+      }
+    },
+    {
+      "label": "import Veste Atelier",
+      "path": "/import",
+      "status": 201,
+      "seconds": 0.06,
+      "value": {
+        "id": "b67b1824-a21a-4631-921f-c1880855dd7d"
+      }
+    },
+    {
+      "label": "import Veste Nomade",
+      "path": "/import",
+      "status": 201,
+      "seconds": 0.06,
+      "value": {
+        "id": "d2df45b6-0d62-4f6f-965a-4569cfc30bfd"
+      }
+    },
+    {
+      "label": "sélection",
+      "path": "/selection",
+      "status": 200,
+      "seconds": 0.01,
+      "value": {
+        "ids": [
+          "bf75cae6-1ed0-4e42-8b2f-17d9c45eb551"
+        ]
+      }
+    },
+    {
+      "label": "sable-seul",
+      "path": "/try",
+      "status": 502,
+      "seconds": 8.38,
+      "value": {
+        "error": "Démonstrateur gratuit indisponible pour cet essai."
+      }
+    },
+    {
+      "label": "sélection",
+      "path": "/selection",
+      "status": 200,
+      "seconds": 0.01,
+      "value": {
+        "ids": [
+          "bf75cae6-1ed0-4e42-8b2f-17d9c45eb551",
+          "2ad7deb7-aad2-44c7-894b-32cbab87b898"
+        ]
+      }
+    },
+    {
+      "label": "sable-dune",
+      "path": "/try",
+      "status": 502,
+      "seconds": 0.88,
+      "value": {
+        "error": "Démonstrateur gratuit indisponible pour cet essai."
+      }
+    },
+    {
+      "label": "sélection",
+      "path": "/selection",
+      "status": 200,
+      "seconds": 0,
+      "value": {
+        "ids": [
+          "bf75cae6-1ed0-4e42-8b2f-17d9c45eb551",
+          "592c024f-afe0-413b-80b1-9f9114510056"
+        ]
+      }
+    },
+    {
+      "label": "sable-rivage",
+      "path": "/try",
+      "status": 502,
+      "seconds": 0.88,
+      "value": {
+        "error": "Démonstrateur gratuit indisponible pour cet essai."
+      }
+    },
+    {
+      "label": "sélection",
+      "path": "/selection",
+      "status": 200,
+      "seconds": 0.01,
+      "value": {
+        "ids": [
+          "1fbb9391-4e56-4567-b896-33e213e06d71",
+          "592c024f-afe0-413b-80b1-9f9114510056"
+        ]
+      }
+    },
+    {
+      "label": "remplacement-hoodie",
+      "path": "/try",
+      "status": 502,
+      "seconds": 0.96,
+      "value": {
+        "error": "Démonstrateur gratuit indisponible pour cet essai."
+      }
+    },
+    {
+      "label": "sélection",
+      "path": "/selection",
+      "status": 200,
+      "seconds": 0,
+      "value": {
+        "ids": [
+          "592c024f-afe0-413b-80b1-9f9114510056"
+        ]
+      }
+    },
+    {
+      "label": "retrait-haut",
+      "path": "/try",
+      "status": 502,
+      "seconds": 0.53,
+      "value": {
+        "error": "Démonstrateur gratuit indisponible pour cet essai."
+      }
+    },
+    {
+      "label": "sélection",
+      "path": "/selection",
+      "status": 200,
+      "seconds": 0,
+      "value": {
+        "ids": [
+          "1fbb9391-4e56-4567-b896-33e213e06d71",
+          "592c024f-afe0-413b-80b1-9f9114510056"
+        ]
+      }
+    },
+    {
+      "label": "sélection",
+      "path": "/selection",
+      "status": 200,
+      "seconds": 0,
+      "value": {
+        "ids": [
+          "1fbb9391-4e56-4567-b896-33e213e06d71",
+          "592c024f-afe0-413b-80b1-9f9114510056",
+          "b67b1824-a21a-4631-921f-c1880855dd7d"
+        ]
+      }
+    },
+    {
+      "label": "sélection",
+      "path": "/selection",
+      "status": 200,
+      "seconds": 0.01,
+      "value": {
+        "ids": [
+          "1fbb9391-4e56-4567-b896-33e213e06d71",
+          "592c024f-afe0-413b-80b1-9f9114510056",
+          "d2df45b6-0d62-4f6f-965a-4569cfc30bfd"
+        ]
+      }
+    },
+    {
+      "label": "sélection",
+      "path": "/selection",
+      "status": 200,
+      "seconds": 0,
+      "value": {
+        "ids": [
+          "1fbb9391-4e56-4567-b896-33e213e06d71",
+          "592c024f-afe0-413b-80b1-9f9114510056"
+        ]
+      }
+    }
+  ]
+}

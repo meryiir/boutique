@@ -1,0 +1,2531 @@
+{
+  "resume": {
+    "articles": 32,
+    "variantes": 97,
+    "cas": 154,
+    "photosDisponibles": 59,
+    "photosManquantes": 95,
+    "couleursInitialesManquantes": 0,
+    "combinaisons": 16
+  },
+  "couverture": [
+    {
+      "produit": "T-shirt Alpine",
+      "slug": "t-shirt-alpine",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Blanc",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/t-shirt-alpine-femme-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "T-shirt Alpine",
+      "slug": "t-shirt-alpine",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Blanc",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/t-shirt-alpine-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "T-shirt Alpine",
+      "slug": "t-shirt-alpine",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": "/images/fitting/prepared/edit-01-femme-olive.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "T-shirt Alpine",
+      "slug": "t-shirt-alpine",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": "/images/fitting/prepared/edit-01-homme-olive.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "T-shirt Alpine",
+      "slug": "t-shirt-alpine",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": "/images/fitting/prepared/edit-01-femme-marine.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "T-shirt Alpine",
+      "slug": "t-shirt-alpine",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": "/images/fitting/prepared/edit-01-homme-marine.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "T-shirt Wild Cards",
+      "slug": "t-shirt-wild-cards",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Rose",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/wild-cards-rose-femme-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "T-shirt Wild Cards",
+      "slug": "t-shirt-wild-cards",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Rose",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/edit-02-homme-rose.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "T-shirt Wild Cards",
+      "slug": "t-shirt-wild-cards",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Ivoire",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "T-shirt Wild Cards",
+      "slug": "t-shirt-wild-cards",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Ivoire",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "T-shirt Wild Cards",
+      "slug": "t-shirt-wild-cards",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "T-shirt Wild Cards",
+      "slug": "t-shirt-wild-cards",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Le coton essentiel",
+      "slug": "le-coton-essentiel",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Écru",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/le-coton-essentiel-femme-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Le coton essentiel",
+      "slug": "le-coton-essentiel",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Écru",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/le-coton-essentiel-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Le coton essentiel",
+      "slug": "le-coton-essentiel",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Le coton essentiel",
+      "slug": "le-coton-essentiel",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Le coton essentiel",
+      "slug": "le-coton-essentiel",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Cobalt",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Le coton essentiel",
+      "slug": "le-coton-essentiel",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Cobalt",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Sable",
+      "slug": "hoodie-sable",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Terre",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-sable-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Sable",
+      "slug": "hoodie-sable",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Terre",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/edit-04-homme-terre.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Sable",
+      "slug": "hoodie-sable",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Sable",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Sable",
+      "slug": "hoodie-sable",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Sable",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Sable",
+      "slug": "hoodie-sable",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Sable",
+      "slug": "hoodie-sable",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Sweat Horizon",
+      "slug": "sweat-horizon",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Ardoise",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/sweat-horizon-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Sweat Horizon",
+      "slug": "sweat-horizon",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Écru",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Sweat Horizon",
+      "slug": "sweat-horizon",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Studio",
+      "slug": "hoodie-studio",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Perle",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-studio-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Studio",
+      "slug": "hoodie-studio",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Studio",
+      "slug": "hoodie-studio",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Rose",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Chemise Medina",
+      "slug": "chemise-medina",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Sable",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/edit-07-femme-sable.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Chemise Medina",
+      "slug": "chemise-medina",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Sable",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/chemise-medina-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Chemise Medina",
+      "slug": "chemise-medina",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Chemise Medina",
+      "slug": "chemise-medina",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Chemise Medina",
+      "slug": "chemise-medina",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Bleu ciel",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Chemise Medina",
+      "slug": "chemise-medina",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Bleu ciel",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Chemise Aube",
+      "slug": "chemise-aube",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Ivoire",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/chemise-aube-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Chemise Aube",
+      "slug": "chemise-aube",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Rose",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Chemise Aube",
+      "slug": "chemise-aube",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Chemise Riviera",
+      "slug": "chemise-riviera",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Rayé olive",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/chemise-riviera-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Chemise Riviera",
+      "slug": "chemise-riviera",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Rayé marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Chemise Riviera",
+      "slug": "chemise-riviera",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Rayé terracotta",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Veste Atelier",
+      "slug": "veste-atelier",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Sable",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/veste-atelier-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Veste Atelier",
+      "slug": "veste-atelier",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Veste Atelier",
+      "slug": "veste-atelier",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Veste Atelier",
+      "slug": "veste-atelier",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Blazer Casablanca",
+      "slug": "blazer-casablanca",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Noir",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/blazer-casablanca-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Blazer Casablanca",
+      "slug": "blazer-casablanca",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Sable",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Blazer Casablanca",
+      "slug": "blazer-casablanca",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Veste Nomade",
+      "slug": "veste-nomade",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/edit-12-femme-olive.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Veste Nomade",
+      "slug": "veste-nomade",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Olive",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/veste-nomade-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Veste Nomade",
+      "slug": "veste-nomade",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Écru",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Veste Nomade",
+      "slug": "veste-nomade",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Écru",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Veste Nomade",
+      "slug": "veste-nomade",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Veste Nomade",
+      "slug": "veste-nomade",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Pantalon Dune",
+      "slug": "pantalon-dune",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Sable",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/pantalon-dune-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Pantalon Dune",
+      "slug": "pantalon-dune",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Pantalon Dune",
+      "slug": "pantalon-dune",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Pantalon Épure",
+      "slug": "pantalon-epure",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Anthracite",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/pantalon-epure-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Pantalon Épure",
+      "slug": "pantalon-epure",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Sable",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Pantalon Épure",
+      "slug": "pantalon-epure",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Pantalon Rivage",
+      "slug": "pantalon-rivage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/pantalon-rivage-femme-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Pantalon Rivage",
+      "slug": "pantalon-rivage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Olive",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/pantalon-rivage-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Pantalon Rivage",
+      "slug": "pantalon-rivage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Écru",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Pantalon Rivage",
+      "slug": "pantalon-rivage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Écru",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Pantalon Rivage",
+      "slug": "pantalon-rivage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Anthracite",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Pantalon Rivage",
+      "slug": "pantalon-rivage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Anthracite",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Robe Lumière",
+      "slug": "robe-lumiere",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Ivoire",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/robe-lumiere-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Robe Lumière",
+      "slug": "robe-lumiere",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Robe Lumière",
+      "slug": "robe-lumiere",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Terracotta",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Robe Sillage",
+      "slug": "robe-sillage",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Espresso",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/robe-sillage-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Robe Sillage",
+      "slug": "robe-sillage",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Robe Sillage",
+      "slug": "robe-sillage",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Vert sauge",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Robe Patio",
+      "slug": "robe-patio",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Terracotta",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/robe-patio-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Robe Patio",
+      "slug": "robe-patio",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Ivoire",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Robe Patio",
+      "slug": "robe-patio",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Ensemble Méridien",
+      "slug": "ensemble-meridien",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Sable",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/ensemble-meridien-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Ensemble Méridien",
+      "slug": "ensemble-meridien",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Ensemble Méridien",
+      "slug": "ensemble-meridien",
+      "genreCatalogue": "Femme",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Ensemble Latitude",
+      "slug": "ensemble-latitude",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Olive",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/ensemble-latitude-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Ensemble Latitude",
+      "slug": "ensemble-latitude",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Sable",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Ensemble Latitude",
+      "slug": "ensemble-latitude",
+      "genreCatalogue": "Homme",
+      "mannequin": "Homme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Ensemble Heure douce",
+      "slug": "ensemble-heure-douce",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Pierre",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/edit-21-femme-pierre.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Ensemble Heure douce",
+      "slug": "ensemble-heure-douce",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Pierre",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/ensemble-heure-douce-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Ensemble Heure douce",
+      "slug": "ensemble-heure-douce",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Ensemble Heure douce",
+      "slug": "ensemble-heure-douce",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Ensemble Heure douce",
+      "slug": "ensemble-heure-douce",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Ensemble Heure douce",
+      "slug": "ensemble-heure-douce",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Cabas Quotidien",
+      "slug": "cabas-quotidien",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Naturel",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/edit-22-femme-naturel.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Cabas Quotidien",
+      "slug": "cabas-quotidien",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Naturel",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/cabas-quotidien-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Cabas Quotidien",
+      "slug": "cabas-quotidien",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Cabas Quotidien",
+      "slug": "cabas-quotidien",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Cabas Quotidien",
+      "slug": "cabas-quotidien",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Cabas Quotidien",
+      "slug": "cabas-quotidien",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Écharpe Nuage",
+      "slug": "echarpe-nuage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Avoine",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/edit-23-femme-avoine.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Écharpe Nuage",
+      "slug": "echarpe-nuage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Avoine",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/echarpe-nuage-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Écharpe Nuage",
+      "slug": "echarpe-nuage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Écharpe Nuage",
+      "slug": "echarpe-nuage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Écharpe Nuage",
+      "slug": "echarpe-nuage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Anthracite",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Écharpe Nuage",
+      "slug": "echarpe-nuage",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Anthracite",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Sac Traversée",
+      "slug": "sac-traversee",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Cognac",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/sac-traversee-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Sac Traversée",
+      "slug": "sac-traversee",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Cognac",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/edit-24-homme-cognac.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Sac Traversée",
+      "slug": "sac-traversee",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Sac Traversée",
+      "slug": "sac-traversee",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Sac Traversée",
+      "slug": "sac-traversee",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Crème",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Sac Traversée",
+      "slug": "sac-traversee",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Crème",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Nocturne",
+      "slug": "hoodie-noir",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Charbon",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-noir-femme-charbon.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Nocturne",
+      "slug": "hoodie-noir",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Charbon",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-noir-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)",
+        "showroom"
+      ]
+    },
+    {
+      "produit": "Hoodie Nocturne",
+      "slug": "hoodie-noir",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Nocturne",
+      "slug": "hoodie-noir",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Nocturne",
+      "slug": "hoodie-noir",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Écru",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Nocturne",
+      "slug": "hoodie-noir",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Écru",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Dune",
+      "slug": "hoodie-dune",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Sable",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-dune-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)",
+        "showroom"
+      ]
+    },
+    {
+      "produit": "Hoodie Dune",
+      "slug": "hoodie-dune",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Sable",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-sable-homme-sable.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Dune",
+      "slug": "hoodie-dune",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Dune",
+      "slug": "hoodie-dune",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Dune",
+      "slug": "hoodie-dune",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Dune",
+      "slug": "hoodie-dune",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Terrain",
+      "slug": "hoodie-olive",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-olive-femme-olive.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Terrain",
+      "slug": "hoodie-olive",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Olive",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-olive-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)",
+        "showroom"
+      ]
+    },
+    {
+      "produit": "Hoodie Terrain",
+      "slug": "hoodie-olive",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Sable",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Terrain",
+      "slug": "hoodie-olive",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Sable",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Terrain",
+      "slug": "hoodie-olive",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Cobalt",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Terrain",
+      "slug": "hoodie-olive",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Cobalt",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Sillage",
+      "slug": "hoodie-bordeaux",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-bordeaux-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)",
+        "showroom"
+      ]
+    },
+    {
+      "produit": "Hoodie Sillage",
+      "slug": "hoodie-bordeaux",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-bordeaux-homme-bordeaux.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Sillage",
+      "slug": "hoodie-bordeaux",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Sillage",
+      "slug": "hoodie-bordeaux",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Sillage",
+      "slug": "hoodie-bordeaux",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Ivoire",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Sillage",
+      "slug": "hoodie-bordeaux",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Ivoire",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Texture",
+      "slug": "hoodie-ecru",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Écru",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-ecru-femme-ecru.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Texture",
+      "slug": "hoodie-ecru",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Écru",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-ecru-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)",
+        "showroom"
+      ]
+    },
+    {
+      "produit": "Hoodie Texture",
+      "slug": "hoodie-ecru",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Terracotta",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Texture",
+      "slug": "hoodie-ecru",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Terracotta",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Texture",
+      "slug": "hoodie-ecru",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Anthracite",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Texture",
+      "slug": "hoodie-ecru",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Anthracite",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Électrique",
+      "slug": "hoodie-cobalt",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Cobalt",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-cobalt-femme-cobalt.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Électrique",
+      "slug": "hoodie-cobalt",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Cobalt",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-cobalt-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)",
+        "showroom"
+      ]
+    },
+    {
+      "produit": "Hoodie Électrique",
+      "slug": "hoodie-cobalt",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Écru",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Électrique",
+      "slug": "hoodie-cobalt",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Écru",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Électrique",
+      "slug": "hoodie-cobalt",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Électrique",
+      "slug": "hoodie-cobalt",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Noir",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Rosée",
+      "slug": "hoodie-rose",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Rose poudré",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-rose-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)",
+        "showroom"
+      ]
+    },
+    {
+      "produit": "Hoodie Rosée",
+      "slug": "hoodie-rose",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Rose poudré",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-rose-homme-rose-poudre.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Rosée",
+      "slug": "hoodie-rose",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Rosée",
+      "slug": "hoodie-rose",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Olive",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Rosée",
+      "slug": "hoodie-rose",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Rosée",
+      "slug": "hoodie-rose",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Marine",
+      "couleurInitiale": false,
+      "photo": null,
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Fragment",
+      "slug": "hoodie-indigo",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Indigo",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-indigo-femme-indigo.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Fragment",
+      "slug": "hoodie-indigo",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Indigo",
+      "couleurInitiale": true,
+      "photo": "/images/fitting/prepared/hoodie-indigo-v1.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)",
+        "showroom"
+      ]
+    },
+    {
+      "produit": "Hoodie Fragment",
+      "slug": "hoodie-indigo",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Sable",
+      "couleurInitiale": false,
+      "photo": "/images/fitting/prepared/hoodie-indigo-femme-sable.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Fragment",
+      "slug": "hoodie-indigo",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Sable",
+      "couleurInitiale": false,
+      "photo": "/images/fitting/prepared/hoodie-indigo-homme-sable.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    },
+    {
+      "produit": "Hoodie Fragment",
+      "slug": "hoodie-indigo",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Femme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": "/images/fitting/prepared/hoodie-indigo-femme-bordeaux.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide"
+      ]
+    },
+    {
+      "produit": "Hoodie Fragment",
+      "slug": "hoodie-indigo",
+      "genreCatalogue": "Mixte",
+      "mannequin": "Homme",
+      "couleur": "Bordeaux",
+      "couleurInitiale": false,
+      "photo": "/images/fitting/prepared/hoodie-indigo-homme-bordeaux.webp",
+      "entrees": [
+        "collection",
+        "aperçu rapide",
+        "fiche",
+        "recommandation (si proposée)"
+      ]
+    }
+  ],
+  "combinaisons": [
+    {
+      "id": "aube-atelier-dune-v1",
+      "gender": "Femme",
+      "items": [
+        {
+          "productId": "edit-08",
+          "color": "Ivoire"
+        },
+        {
+          "productId": "edit-10",
+          "color": "Sable"
+        },
+        {
+          "productId": "edit-13",
+          "color": "Sable"
+        }
+      ],
+      "image": "/images/fitting/prepared/aube-atelier-dune-v1.webp",
+      "differences": [
+        "Les plis et finitions sont reconstitués."
+      ],
+      "alt": "Mannequin femme portant Chemise Aube Ivoire, Veste Atelier Sable, Pantalon Dune Sable"
+    },
+    {
+      "id": "wild-dune-v1",
+      "gender": "Femme",
+      "items": [
+        {
+          "productId": "edit-02",
+          "color": "Rose"
+        },
+        {
+          "productId": "edit-13",
+          "color": "Sable"
+        }
+      ],
+      "image": "/images/fitting/prepared/wild-dune-v1.webp",
+      "differences": [
+        "Les plis et finitions sont reconstitués."
+      ],
+      "alt": "Mannequin femme portant T-shirt Wild Cards Rose, Pantalon Dune Sable"
+    },
+    {
+      "id": "medina-epure-v1",
+      "gender": "Homme",
+      "items": [
+        {
+          "productId": "edit-07",
+          "color": "Sable"
+        },
+        {
+          "productId": "edit-14",
+          "color": "Anthracite"
+        }
+      ],
+      "image": "/images/fitting/prepared/medina-epure-v1.webp",
+      "differences": [
+        "Les plis et finitions sont reconstitués."
+      ],
+      "alt": "Mannequin homme portant Chemise Medina Sable, Pantalon Épure Anthracite"
+    },
+    {
+      "id": "medina-rivage-v1",
+      "gender": "Homme",
+      "items": [
+        {
+          "productId": "edit-07",
+          "color": "Sable"
+        },
+        {
+          "productId": "edit-15",
+          "color": "Olive"
+        }
+      ],
+      "image": "/images/fitting/prepared/medina-rivage-v1.webp",
+      "differences": [
+        "Les plis et finitions sont reconstitués."
+      ],
+      "alt": "Mannequin homme portant Chemise Medina Sable, Pantalon Rivage Olive"
+    },
+    {
+      "id": "medina-nomade-v1",
+      "gender": "Homme",
+      "items": [
+        {
+          "productId": "edit-07",
+          "color": "Sable"
+        },
+        {
+          "productId": "edit-12",
+          "color": "Olive"
+        }
+      ],
+      "image": "/images/fitting/prepared/medina-nomade-v1.webp",
+      "differences": [
+        "Les plis et finitions sont reconstitués."
+      ],
+      "alt": "Mannequin homme portant Chemise Medina Sable, Veste Nomade Olive"
+    },
+    {
+      "id": "medina-cabas-v1",
+      "gender": "Homme",
+      "items": [
+        {
+          "productId": "edit-07",
+          "color": "Sable"
+        },
+        {
+          "productId": "edit-22",
+          "color": "Naturel"
+        }
+      ],
+      "image": "/images/fitting/prepared/medina-cabas-v1.webp",
+      "differences": [
+        "Les plis et finitions sont reconstitués."
+      ],
+      "alt": "Mannequin homme portant Chemise Medina Sable, Cabas Quotidien Naturel"
+    },
+    {
+      "id": "aube-atelier-v1",
+      "gender": "Femme",
+      "items": [
+        {
+          "productId": "edit-08",
+          "color": "Ivoire"
+        },
+        {
+          "productId": "edit-10",
+          "color": "Sable"
+        }
+      ],
+      "image": "/images/fitting/prepared/aube-atelier-v1.webp",
+      "differences": [
+        "Les plis et finitions sont reconstitués."
+      ],
+      "alt": "Mannequin femme portant Chemise Aube Ivoire, Veste Atelier Sable"
+    },
+    {
+      "id": "aube-rivage-femme-v1",
+      "gender": "Femme",
+      "items": [
+        {
+          "productId": "edit-08",
+          "color": "Ivoire"
+        },
+        {
+          "productId": "edit-15",
+          "color": "Olive"
+        }
+      ],
+      "image": "/images/fitting/prepared/aube-rivage-femme-v1.webp",
+      "alt": "Mannequin femme portant la Chemise Aube ivoire et le Pantalon Rivage olive",
+      "differences": [
+        "Le tombé et les plis des deux pièces sont reconstitués."
+      ]
+    },
+    {
+      "id": "atelier-dune-femme-v1",
+      "gender": "Femme",
+      "items": [
+        {
+          "productId": "edit-10",
+          "color": "Sable"
+        },
+        {
+          "productId": "edit-13",
+          "color": "Sable"
+        }
+      ],
+      "image": "/images/fitting/prepared/atelier-dune-femme-v1.webp",
+      "alt": "Mannequin femme portant la Veste Atelier sable et le Pantalon Dune sable",
+      "differences": [
+        "Le tombé, les plis et les détails du tissu sont reconstitués."
+      ]
+    },
+    {
+      "id": "atelier-rivage-femme-v1",
+      "gender": "Femme",
+      "items": [
+        {
+          "productId": "edit-10",
+          "color": "Sable"
+        },
+        {
+          "productId": "edit-15",
+          "color": "Olive"
+        }
+      ],
+      "image": "/images/fitting/prepared/atelier-rivage-femme-v1.webp",
+      "alt": "Mannequin femme portant la Veste Atelier sable et le Pantalon Rivage olive",
+      "differences": [
+        "Les plis du pantalon et les finitions de la veste sont reconstitués."
+      ]
+    },
+    {
+      "id": "studio-rivage-v1",
+      "gender": "Femme",
+      "items": [
+        {
+          "productId": "edit-06",
+          "color": "Perle"
+        },
+        {
+          "productId": "edit-15",
+          "color": "Olive"
+        }
+      ],
+      "image": "/images/fitting/prepared/studio-rivage-v1.webp",
+      "alt": "Mannequin femme portant le Hoodie Studio perle et le Pantalon Rivage olive",
+      "differences": [
+        "Aperçu généré. Les plis et finitions des vêtements sont reconstitués."
+      ]
+    },
+    {
+      "id": "studio-dune-v1",
+      "gender": "Femme",
+      "items": [
+        {
+          "productId": "edit-06",
+          "color": "Perle"
+        },
+        {
+          "productId": "edit-13",
+          "color": "Sable"
+        }
+      ],
+      "image": "/images/fitting/prepared/studio-dune-v1.webp",
+      "alt": "Mannequin femme portant le Hoodie Studio perle et le Pantalon Dune sable",
+      "differences": [
+        "Aperçu généré. Les plis et finitions des vêtements sont reconstitués."
+      ]
+    },
+    {
+      "id": "nocturne-epure-v1",
+      "gender": "Homme",
+      "items": [
+        {
+          "productId": "hoodie-noir",
+          "color": "Charbon"
+        },
+        {
+          "productId": "edit-14",
+          "color": "Anthracite"
+        }
+      ],
+      "image": "/images/fitting/prepared/nocturne-epure-v1.webp",
+      "alt": "Mannequin homme portant le Hoodie Nocturne charbon et le Pantalon Épure anthracite",
+      "differences": [
+        "Aperçu généré. Les plis et finitions des vêtements sont reconstitués."
+      ]
+    },
+    {
+      "id": "horizon-epure-v1",
+      "gender": "Homme",
+      "items": [
+        {
+          "productId": "edit-05",
+          "color": "Ardoise"
+        },
+        {
+          "productId": "edit-14",
+          "color": "Anthracite"
+        }
+      ],
+      "image": "/images/fitting/prepared/horizon-epure-v1.webp",
+      "alt": "Mannequin homme portant le Sweat Horizon ardoise et le Pantalon Épure anthracite",
+      "differences": [
+        "Aperçu généré. Les plis et finitions des vêtements sont reconstitués."
+      ]
+    },
+    {
+      "id": "aube-dune-v1",
+      "gender": "Femme",
+      "items": [
+        {
+          "productId": "edit-08",
+          "color": "Ivoire"
+        },
+        {
+          "productId": "edit-13",
+          "color": "Sable"
+        }
+      ],
+      "image": "/images/fitting/prepared/aube-dune-v1.webp",
+      "alt": "Mannequin femme portant la Chemise Aube ivoire et le Pantalon Dune sable",
+      "differences": [
+        "Aperçu généré. Les plis et finitions des vêtements sont reconstitués."
+      ]
+    },
+    {
+      "id": "aube-atelier-rivage-v1",
+      "gender": "Femme",
+      "items": [
+        {
+          "productId": "edit-08",
+          "color": "Ivoire"
+        },
+        {
+          "productId": "edit-10",
+          "color": "Sable"
+        },
+        {
+          "productId": "edit-15",
+          "color": "Olive"
+        }
+      ],
+      "image": "/images/fitting/prepared/aube-atelier-rivage-v1.webp",
+      "alt": "Mannequin femme portant la Chemise Aube ivoire, la Veste Atelier sable et le Pantalon Rivage olive",
+      "differences": [
+        "Aperçu généré. Les plis et finitions des vêtements sont reconstitués."
+      ]
+    }
+  ]
+}

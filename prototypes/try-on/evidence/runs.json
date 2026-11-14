@@ -1,0 +1,36 @@
+[
+  {
+    "name": "01-haut",
+    "item": "top",
+    "seconds": 23.551,
+    "result": "ok"
+  },
+  {
+    "name": "02-pantalon",
+    "item": "pants",
+    "seconds": 7.194,
+    "result": "ok"
+  },
+  {
+    "name": "03-robe",
+    "item": "dress",
+    "seconds": 25.208,
+    "result": "ok"
+  },
+  {
+    "name": "04-haut-pantalon",
+    "item": "pants",
+    "seconds": 1.37,
+    "result": "Démonstrateur gratuit indisponible pour cet essai."
+  },
+  {
+    "name": "04b-haut-pantalon",
+    "seconds": 1.371,
+    "result": "Démonstrateur gratuit indisponible pour cet essai."
+  },
+  {
+    "name": "05-remplacement-haut",
+    "seconds": 0.872,
+    "result": "Démonstrateur gratuit indisponible pour cet essai."
+  }
+]

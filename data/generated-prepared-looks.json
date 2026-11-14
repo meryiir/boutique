@@ -1,0 +1,467 @@
+[
+  {
+    "id": "t-shirt-alpine-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-01",
+        "color": "Blanc"
+      }
+    ],
+    "image": "/images/fitting/prepared/t-shirt-alpine-v1.webp",
+    "alt": "Mannequin homme portant T-shirt Alpine, couleur Blanc",
+    "differences": [
+      "Le paysage imprimé est redessiné et légèrement redimensionné. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "le-coton-essentiel-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-03",
+        "color": "Écru"
+      }
+    ],
+    "image": "/images/fitting/prepared/le-coton-essentiel-v1.webp",
+    "alt": "Mannequin homme portant Le coton essentiel, couleur Écru",
+    "differences": [
+      "Le volume des manches et le grain du jersey sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "hoodie-sable-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-04",
+        "color": "Terre"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-sable-v1.webp",
+    "alt": "Mannequin femme portant Hoodie Sable, couleur Terre",
+    "differences": [
+      "Les courbes de découpe et les volumes du molleton sont reconstitués. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "sweat-horizon-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-05",
+        "color": "Ardoise"
+      }
+    ],
+    "image": "/images/fitting/prepared/sweat-horizon-v1.webp",
+    "alt": "Mannequin homme portant Sweat Horizon, couleur Ardoise",
+    "differences": [
+      "Le bleu ardoise et les fronces de molleton sont légèrement réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "hoodie-studio-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-06",
+        "color": "Perle"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-studio-v1.webp",
+    "alt": "Mannequin femme portant Hoodie Studio, couleur Perle",
+    "differences": [
+      "La longueur courte, les fronces et les manches sont reconstituées. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "chemise-medina-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-07",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/chemise-medina-v1.webp",
+    "alt": "Mannequin homme portant Chemise Medina, couleur Sable",
+    "differences": [
+      "Le grain du lin est plus marqué et les plis sont reconstitués. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "chemise-aube-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-08",
+        "color": "Ivoire"
+      }
+    ],
+    "image": "/images/fitting/prepared/chemise-aube-v1.webp",
+    "alt": "Mannequin femme portant Chemise Aube, couleur Ivoire",
+    "differences": [
+      "Le blanc et les volumes des manches sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "chemise-riviera-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-09",
+        "color": "Rayé olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/chemise-riviera-v1.webp",
+    "alt": "Mannequin homme portant Chemise Riviera, couleur Rayé olive",
+    "differences": [
+      "La densité des rayures et les plis sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "veste-atelier-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-10",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/veste-atelier-v1.webp",
+    "alt": "Mannequin femme portant Veste Atelier, couleur Sable",
+    "differences": [
+      "Les revers, boutons et textures sont reconstitués pour le mannequin. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "blazer-casablanca-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-11",
+        "color": "Noir"
+      }
+    ],
+    "image": "/images/fitting/prepared/blazer-casablanca-v1.webp",
+    "alt": "Mannequin homme portant Blazer Casablanca, couleur Noir",
+    "differences": [
+      "La taille paraît plus ajustée ; revers et poches sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "veste-nomade-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-12",
+        "color": "Olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/veste-nomade-v1.webp",
+    "alt": "Mannequin homme portant Veste Nomade, couleur Olive",
+    "differences": [
+      "Les boutons, poches et coutures de la toile sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "pantalon-dune-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-13",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/pantalon-dune-v1.webp",
+    "alt": "Mannequin femme portant Pantalon Dune, couleur Sable",
+    "differences": [
+      "Le volume palazzo, la longueur et les plis sont reconstitués. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "pantalon-epure-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-14",
+        "color": "Anthracite"
+      }
+    ],
+    "image": "/images/fitting/prepared/pantalon-epure-v1.webp",
+    "alt": "Mannequin homme portant Pantalon Épure, couleur Anthracite",
+    "differences": [
+      "La jambe paraît plus fuselée que sur la photographie du catalogue. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "pantalon-rivage-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-15",
+        "color": "Olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/pantalon-rivage-v1.webp",
+    "alt": "Mannequin homme portant Pantalon Rivage, couleur Olive",
+    "differences": [
+      "Le volume des jambes et les plis sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "robe-lumiere-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-16",
+        "color": "Ivoire"
+      }
+    ],
+    "image": "/images/fitting/prepared/robe-lumiere-v1.webp",
+    "alt": "Mannequin femme portant Robe Lumière, couleur Ivoire",
+    "differences": [
+      "La texture paraît plus ornée que sur la photo de référence ; le volume de la jupe est reconstitué. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "robe-sillage-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-17",
+        "color": "Espresso"
+      }
+    ],
+    "image": "/images/fitting/prepared/robe-sillage-v1.webp",
+    "alt": "Mannequin femme portant Robe Sillage, couleur Espresso",
+    "differences": [
+      "Les reflets du satin, le décolleté et les plis sont reconstitués. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "robe-patio-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-18",
+        "color": "Terracotta"
+      }
+    ],
+    "image": "/images/fitting/prepared/robe-patio-v1.webp",
+    "alt": "Mannequin femme portant Robe Patio, couleur Terracotta",
+    "differences": [
+      "La position de la ceinture et le plissé de la jupe sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "ensemble-meridien-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-19",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/ensemble-meridien-v1.webp",
+    "alt": "Mannequin femme portant Ensemble Méridien, couleur Sable",
+    "differences": [
+      "Le gilet et le pantalon sont portés ensemble ; les plis et le grain du tissu sont reconstitués. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "ensemble-latitude-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-20",
+        "color": "Olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/ensemble-latitude-v1.webp",
+    "alt": "Mannequin homme portant Ensemble Latitude, couleur Olive",
+    "differences": [
+      "La chemise et le pantalon assortis sont portés ensemble ; plis et détails sont reconstitués. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "ensemble-heure-douce-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-21",
+        "color": "Pierre"
+      }
+    ],
+    "image": "/images/fitting/prepared/ensemble-heure-douce-v1.webp",
+    "alt": "Mannequin homme portant Ensemble Heure douce, couleur Pierre",
+    "differences": [
+      "Le haut et le pantalon assortis sont portés ensemble ; volumes et texture sont reconstitués. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "cabas-quotidien-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-22",
+        "color": "Naturel"
+      }
+    ],
+    "image": "/images/fitting/prepared/cabas-quotidien-v1.webp",
+    "alt": "Mannequin homme portant Cabas Quotidien, couleur Naturel",
+    "differences": [
+      "Les proportions du sac, les poignées et la prise en main sont reconstituées. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "echarpe-nuage-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-23",
+        "color": "Avoine"
+      }
+    ],
+    "image": "/images/fitting/prepared/echarpe-nuage-v1.webp",
+    "alt": "Mannequin homme portant Écharpe Nuage, couleur Avoine",
+    "differences": [
+      "Le drapé autour du cou et les franges sont reconstitués. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "sac-traversee-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-24",
+        "color": "Cognac"
+      }
+    ],
+    "image": "/images/fitting/prepared/sac-traversee-v1.webp",
+    "alt": "Mannequin femme portant Sac Traversée, couleur Cognac",
+    "differences": [
+      "L’échelle du sac et le parcours de sa bandoulière sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "hoodie-noir-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "hoodie-noir",
+        "color": "Charbon"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-noir-v1.webp",
+    "alt": "Mannequin homme portant Hoodie Nocturne, couleur Charbon",
+    "differences": [
+      "Le délavage et les coutures architecturales sont reconstitués. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "hoodie-dune-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "hoodie-sable",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-dune-v1.webp",
+    "alt": "Mannequin femme portant Hoodie Dune, couleur Sable",
+    "differences": [
+      "Le volume court, les manches et les ouvertures des poches sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "hoodie-olive-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "hoodie-olive",
+        "color": "Olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-olive-v1.webp",
+    "alt": "Mannequin homme portant Hoodie Terrain, couleur Olive",
+    "differences": [
+      "La fermeture et les poches utilitaires sont reconstituées. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "hoodie-bordeaux-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "hoodie-bordeaux",
+        "color": "Bordeaux"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-bordeaux-v1.webp",
+    "alt": "Mannequin femme portant Hoodie Sillage, couleur Bordeaux",
+    "differences": [
+      "Les fleurs et les broderies sont redessinées : leur tracé et leur placement diffèrent légèrement. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "hoodie-ecru-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "hoodie-ecru",
+        "color": "Écru"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-ecru-v1.webp",
+    "alt": "Mannequin homme portant Hoodie Texture, couleur Écru",
+    "differences": [
+      "La maille gaufrée paraît plus marquée ; les surpiqûres sont reconstituées. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "hoodie-cobalt-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "hoodie-cobalt",
+        "color": "Cobalt"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-cobalt-v1.webp",
+    "alt": "Mannequin homme portant Hoodie Électrique, couleur Cobalt",
+    "differences": [
+      "Le petit motif étoilé, le bleu et les volumes sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "hoodie-rose-femme-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "hoodie-rose",
+        "color": "Rose poudré"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-rose-v1.webp",
+    "alt": "Mannequin femme portant Hoodie Rosée, couleur Rose poudré",
+    "differences": [
+      "Le zip, les poches et les fronces sont réinterprétés. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  },
+  {
+    "id": "hoodie-indigo-homme-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "hoodie-indigo",
+        "color": "Indigo"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-indigo-v1.webp",
+    "alt": "Mannequin homme portant Hoodie Fragment, couleur Indigo",
+    "differences": [
+      "Le délavage et le tracé des coutures sont reconstitués. Teinte et petits détails générés, à comparer à la photo du catalogue."
+    ]
+  }
+]

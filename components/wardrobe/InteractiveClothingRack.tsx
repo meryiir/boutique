@@ -2,6 +2,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import {fittingLink} from '@/components/fitting/FittingRoom';
 import { ArrowLeft, ArrowRight, MoveHorizontal, ArrowUpRight } from 'lucide-react';
 import { GarmentViewer } from './GarmentViewer';
 import { products } from '@/data/products';
@@ -23,7 +24,7 @@ export function InteractiveClothingRack() {
     setMobile(media.matches);
     const change = () => { setMobile(media.matches); setActive(-1); };
     media.addEventListener('change', change);
-    const observer = new IntersectionObserver(entries => setVisible(entries[0].isIntersecting), { rootMargin: '150px' });
+    const observer = new IntersectionObserver(entries => setVisible(entries[0].isIntersecting), { threshold: 0.04 });
     if (section.current) observer.observe(section.current);
     return () => { media.removeEventListener('change', change); observer.disconnect(); };
   }, []);
@@ -51,7 +52,7 @@ export function InteractiveClothingRack() {
           style={{ left: `calc(100px + (100% - 200px) * ${(i + .5) / rack.length})`, transform: `translateX(calc(-50% + ${shift}px))`, zIndex: active === i ? 5 : 1 }}
           aria-label={`0${i + 1} — Explorer ${p.name}`} aria-pressed={active === i}
           onPointerEnter={e => { if (e.pointerType === 'mouse') choose(i); }} onFocus={() => choose(i)}
-          onClick={() => { if (mobile) choose(i); else router.push(`/produit/${p.slug}`); }}
+          onClick={() => { router.push(`/produit/${p.slug}#product-try-on`); }}
           onKeyDown={e => {
             if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
               e.preventDefault(); const n = (i + (e.key === 'ArrowRight' ? 1 : -1) + rack.length) % rack.length;
@@ -60,14 +61,14 @@ export function InteractiveClothingRack() {
             if (e.key === 'Escape') setActive(-1);
           }}>
           <span className="hanger-wire" aria-hidden="true" />
-          <GarmentViewer garment={item.garment} active={active === i} visible={visible} alt={`${p.name}, pièce suspendue`} />
+          <GarmentViewer garment={item.garment} active={active === i} visible={active===i||(visible&&i===0)} alt={`${p.name}, pièce suspendue`} />
           <span className="rack-number" aria-hidden="true">0{i + 1}</span>
         </button>;
       })}<div className="rack-floor" aria-hidden="true" />
     </div></div>
     <div className="rack-caption">
       <div className="rack-info" aria-live="polite"><span className="micro">0{selected + 1} / 0{rack.length}</span><div><h3>{product.name}</h3><p className="small muted">{money(product.price)}<span className="dot-separator">·</span>{product.category}</p></div></div>
-      <div className="rack-controls"><button className="circle-button" onClick={() => choose(selected - 1, true)} aria-label="Pièce précédente"><ArrowLeft size={17} /></button><button className="circle-button" onClick={() => choose(selected + 1, true)} aria-label="Pièce suivante"><ArrowRight size={17} /></button><Link className="text-link" href={`/produit/${product.slug}`}>Découvrir la pièce <ArrowUpRight size={17} /></Link></div>
+      <div className="rack-controls"><button className="circle-button" onClick={() => choose(selected - 1, true)} aria-label="Pièce précédente"><ArrowLeft size={17} /></button><button className="circle-button" onClick={() => choose(selected + 1, true)} aria-label="Pièce suivante"><ArrowRight size={17} /></button><Link className="text-link" href={`/produit/${product.slug}`}>Découvrir la pièce <ArrowUpRight size={17} /></Link><Link className="text-link rack-try-on" href={fittingLink(product)}>Essayer <ArrowUpRight size={17} /></Link></div>
     </div>
     <p className="rack-footnote">Édition Hoodie : 8 créations distinctes, du molleton sculptural aux textures délavées. Visuels de mode générés pour cette collection de démonstration. <Link href="/informations#credits">Crédits de l’expérience ↗</Link></p>
   </section>;

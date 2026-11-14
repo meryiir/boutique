@@ -1,0 +1,25 @@
+{
+  "source": "Photos originales du catalogue de démonstration, sans échantillon physique de magasin",
+  "variants": [
+    {"product":"hoodie-sable","variant":"terre","name":"Hoodie Sable","color":"Terre","gender":"Mixte","category":"top-layers","file":"images/catalog/product-03-front.webp"},
+    {"product":"dune","variant":"sable","name":"Pantalon Dune","color":"Sable","gender":"Femme","category":"bottoms","file":"images/catalog/product-12-front.webp"},
+    {"product":"rivage","variant":"olive","name":"Pantalon Rivage","color":"Olive","gender":"Mixte","category":"bottoms","file":"images/catalog/product-14-front.webp"},
+    {"product":"studio","variant":"perle","name":"Hoodie Studio","color":"Perle","gender":"Femme","category":"top-layers","file":"images/catalog/product-05-front.webp"},
+    {"product":"aube","variant":"ivoire","name":"Chemise Aube","color":"Ivoire","gender":"Femme","category":"tops","file":"images/catalog/product-07-front.webp"},
+    {"product":"aube","variant":"rose","name":"Chemise Aube","color":"Rose","gender":"Femme","category":"tops","file":"images/colorways/item-07-a-front.webp"},
+    {"product":"atelier","variant":"sable","name":"Veste Atelier","color":"Sable","gender":"Femme","category":"top-layers","file":"images/catalog/product-09-front.webp"},
+    {"product":"nomade","variant":"olive","name":"Veste Nomade","color":"Olive","gender":"Mixte","category":"outerwear","file":"images/catalog/product-11-front.webp"},
+    {"product":"magasin-nouvel-article-pilote","variant":"sable","name":"Nouvel article importé","color":"Sable","gender":"Mixte","category":"tops","file":"images/catalog/product-06-front.webp"}
+  ],
+  "cases": [
+    {"name":"hoodie-dune","gender":"Femme","items":["hoodie-sable/terre","dune/sable"]},
+    {"name":"remplacer-dune-par-rivage","items":["hoodie-sable/terre","rivage/olive"]},
+    {"name":"remplacer-haut-garder-pantalon","items":["studio/perle","rivage/olive"]},
+    {"name":"retirer-haut-garder-pantalon","remove":["top-layers"],"items":["rivage/olive"]},
+    {"name":"aube-dune-atelier","items":["aube/ivoire","dune/sable","atelier/sable"]},
+    {"name":"vetement-exterieur","newSession":true,"gender":"Femme","items":["aube/ivoire","dune/sable","nomade/olive"]},
+    {"name":"changer-couleur","items":["aube/rose","dune/sable","nomade/olive"]},
+    {"name":"mannequin-homme","gender":"Homme","items":["hoodie-sable/terre","rivage/olive"]},
+    {"name":"nouvel-article-importe","newSession":true,"gender":"Homme","items":["magasin-nouvel-article-pilote/sable","rivage/olive"]}
+  ]
+}

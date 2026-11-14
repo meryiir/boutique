@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MAISON ÉDIT · Pilote Runware</title>
+  <link rel="stylesheet" href="/style.css"><script type="module" src="/runware-ui.js"></script>
+</head>
+<body>
+  <header>MAISON ÉDIT <small>PILOTE PRUNA VIA RUNWARE</small></header>
+  <main>
+    <h1>Composez votre <em>tenue.</em></h1>
+    <p id="engine">Vérification du moteur…</p>
+    <div class="layout">
+      <section aria-labelledby="preview-title">
+        <h2 id="preview-title">Mannequin de référence</h2>
+        <img id="result" alt="Mannequin de référence">
+        <p id="worn"></p><p id="render-state" role="status"></p>
+        <p id="status" role="status"></p><p id="error" role="alert"></p>
+        <p>La fidélité des pièces et l’aspect plastique du mannequin doivent être inspectés sur chaque résultat réel.</p>
+      </section>
+      <div>
+        <form id="outfit">
+          <h2>Tenue demandée</h2>
+          <label>Mannequin <select id="gender"><option>Femme</option><option>Homme</option></select></label>
+          <div id="slots"></div>
+          <ul id="selected" aria-label="Articles sélectionnés"></ul>
+          <div id="references"></div>
+          <button id="visualize" disabled>Visualiser ma tenue</button>
+          <p id="availability" role="status"></p>
+          <p>Composez les pièces puis lancez un calcul. Le pilote standard évalue une à trois pièces, à partir du mannequin initial et de toutes les photos originales sélectionnées.</p>
+        </form>
+        <form id="import">
+          <h2>Importer une variante</h2>
+          <label>Identifiant produit <input name="product" required maxlength="100"></label>
+          <label>Identifiant variante <input name="variant" required maxlength="100"></label>
+          <label>Nom <input name="name" required maxlength="100"></label>
+          <label>Couleur <input name="color" required maxlength="100"></label>
+          <label>Genre <select name="gender"><option>Mixte</option><option>Femme</option><option>Homme</option></select></label>
+          <label>Emplacement <select name="category" id="import-category"></select></label>
+          <label>Photo originale <input name="photo" type="file" accept="image/png,image/jpeg,image/webp" required></label>
+          <label>Cintre <select name="hanger"><option value="unknown">À vérifier</option><option value="absent">Absent</option><option value="present">Présent</option></select></label>
+          <label>Fond <select name="background"><option value="unknown">À vérifier</option><option value="plain">Uni</option><option value="complex">Complexe</option></select></label>
+          <label>Cadrage <select name="framing"><option value="unknown">À vérifier</option><option value="complete">Vêtement entier</option><option value="cropped">Partiellement coupé</option></select></label>
+          <p>Dimensions et décodage sont contrôlés automatiquement. La présence d’un cintre et la qualité du fond nécessitent une vérification visuelle.</p>
+          <button>Importer la variante</button><p id="import-status" role="status"></p>
+        </form>
+      </div>
+    </div>
+  </main>
+</body>
+</html>

@@ -1,4 +1,5 @@
 import type { Color } from '@/types/product';
+import { additionalColors } from './additional-colors';
 
 const colorways = [
  ['Blanc','#eeeae4'],['Rose','#cfa6ad'],['Écru','#ddd4bf'],
@@ -16,7 +17,7 @@ export function catalogColors(index: number): Color[] {
  const root=`/images/catalog/product-${String(index).padStart(2,'0')}`;
  const colors: Color[]=[{name,hex,image:`${root}-front.webp`,back:`${root}-back.webp`}];
  if(index===9)colors.push({name:'Olive',hex:'#727a55',image:`${root}-olive-front.webp`,back:`${root}-olive-back.webp`});
- return colors;
+ return [...colors,...additionalColors(index)];
 }
 
 const details = [

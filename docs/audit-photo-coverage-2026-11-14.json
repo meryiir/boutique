@@ -1,0 +1,592 @@
+{
+  "date": "2026-11-14",
+  "scope": "Ordre des 32 fiches, genre initial Femme, maintien du genre courant pour les articles mixtes ; 97 variantes testées séparément aux largeurs 1440 et 390.",
+  "photoDisponible": 27,
+  "photoIndisponible": 70,
+  "rendusIndividuels": 35,
+  "tenuesCompletes": 2,
+  "variantes": [
+    {
+      "article": "T-shirt Alpine",
+      "couleur": "Blanc",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "T-shirt Alpine",
+      "couleur": "Olive",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "T-shirt Alpine",
+      "couleur": "Marine",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "T-shirt Wild Cards",
+      "couleur": "Rose",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "T-shirt Wild Cards",
+      "couleur": "Ivoire",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "T-shirt Wild Cards",
+      "couleur": "Bordeaux",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Le coton essentiel",
+      "couleur": "Écru",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "Le coton essentiel",
+      "couleur": "Noir",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Le coton essentiel",
+      "couleur": "Cobalt",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Sable",
+      "couleur": "Terre",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "Hoodie Sable",
+      "couleur": "Sable",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Sable",
+      "couleur": "Marine",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Sweat Horizon",
+      "couleur": "Ardoise",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Sweat Horizon",
+      "couleur": "Écru",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Sweat Horizon",
+      "couleur": "Bordeaux",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Studio",
+      "couleur": "Perle",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "Hoodie Studio",
+      "couleur": "Olive",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Studio",
+      "couleur": "Rose",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Chemise Medina",
+      "couleur": "Sable",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Chemise Medina",
+      "couleur": "Olive",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Chemise Medina",
+      "couleur": "Bleu ciel",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Chemise Aube",
+      "couleur": "Ivoire",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "Chemise Aube",
+      "couleur": "Rose",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Chemise Aube",
+      "couleur": "Marine",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Chemise Riviera",
+      "couleur": "Rayé olive",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Chemise Riviera",
+      "couleur": "Rayé marine",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Chemise Riviera",
+      "couleur": "Rayé terracotta",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Veste Atelier",
+      "couleur": "Sable",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "Veste Atelier",
+      "couleur": "Olive",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Veste Atelier",
+      "couleur": "Marine",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Veste Atelier",
+      "couleur": "Bordeaux",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Blazer Casablanca",
+      "couleur": "Noir",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Blazer Casablanca",
+      "couleur": "Sable",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Blazer Casablanca",
+      "couleur": "Olive",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Veste Nomade",
+      "couleur": "Olive",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Veste Nomade",
+      "couleur": "Écru",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Veste Nomade",
+      "couleur": "Marine",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Pantalon Dune",
+      "couleur": "Sable",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "Pantalon Dune",
+      "couleur": "Noir",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Pantalon Dune",
+      "couleur": "Olive",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Pantalon Épure",
+      "couleur": "Anthracite",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Pantalon Épure",
+      "couleur": "Sable",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Pantalon Épure",
+      "couleur": "Marine",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Pantalon Rivage",
+      "couleur": "Olive",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Pantalon Rivage",
+      "couleur": "Écru",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Pantalon Rivage",
+      "couleur": "Anthracite",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Robe Lumière",
+      "couleur": "Ivoire",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "Robe Lumière",
+      "couleur": "Olive",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Robe Lumière",
+      "couleur": "Terracotta",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Robe Sillage",
+      "couleur": "Espresso",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "Robe Sillage",
+      "couleur": "Bordeaux",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Robe Sillage",
+      "couleur": "Vert sauge",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Robe Patio",
+      "couleur": "Terracotta",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "Robe Patio",
+      "couleur": "Ivoire",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Robe Patio",
+      "couleur": "Marine",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Ensemble Méridien",
+      "couleur": "Sable",
+      "mannequin": "Femme",
+      "photo": true
+    },
+    {
+      "article": "Ensemble Méridien",
+      "couleur": "Noir",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Ensemble Méridien",
+      "couleur": "Olive",
+      "mannequin": "Femme",
+      "photo": false
+    },
+    {
+      "article": "Ensemble Latitude",
+      "couleur": "Olive",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Ensemble Latitude",
+      "couleur": "Sable",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Ensemble Latitude",
+      "couleur": "Marine",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Ensemble Heure douce",
+      "couleur": "Pierre",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Ensemble Heure douce",
+      "couleur": "Bordeaux",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Ensemble Heure douce",
+      "couleur": "Marine",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Cabas Quotidien",
+      "couleur": "Naturel",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Cabas Quotidien",
+      "couleur": "Olive",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Cabas Quotidien",
+      "couleur": "Noir",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Écharpe Nuage",
+      "couleur": "Avoine",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Écharpe Nuage",
+      "couleur": "Bordeaux",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Écharpe Nuage",
+      "couleur": "Anthracite",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Sac Traversée",
+      "couleur": "Cognac",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Sac Traversée",
+      "couleur": "Noir",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Sac Traversée",
+      "couleur": "Crème",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Nocturne",
+      "couleur": "Charbon",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Hoodie Nocturne",
+      "couleur": "Olive",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Nocturne",
+      "couleur": "Écru",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Dune",
+      "couleur": "Sable",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Dune",
+      "couleur": "Noir",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Dune",
+      "couleur": "Bordeaux",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Terrain",
+      "couleur": "Olive",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Hoodie Terrain",
+      "couleur": "Sable",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Terrain",
+      "couleur": "Cobalt",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Sillage",
+      "couleur": "Bordeaux",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Sillage",
+      "couleur": "Marine",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Sillage",
+      "couleur": "Ivoire",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Texture",
+      "couleur": "Écru",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Hoodie Texture",
+      "couleur": "Terracotta",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Texture",
+      "couleur": "Anthracite",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Électrique",
+      "couleur": "Cobalt",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Hoodie Électrique",
+      "couleur": "Écru",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Électrique",
+      "couleur": "Noir",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Rosée",
+      "couleur": "Rose poudré",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Rosée",
+      "couleur": "Olive",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Rosée",
+      "couleur": "Marine",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Fragment",
+      "couleur": "Indigo",
+      "mannequin": "Homme",
+      "photo": true
+    },
+    {
+      "article": "Hoodie Fragment",
+      "couleur": "Sable",
+      "mannequin": "Homme",
+      "photo": false
+    },
+    {
+      "article": "Hoodie Fragment",
+      "couleur": "Bordeaux",
+      "mannequin": "Homme",
+      "photo": false
+    }
+  ]
+}

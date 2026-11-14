@@ -1,0 +1,514 @@
+[
+  {
+    "productId": "edit-01",
+    "gender": "Femme",
+    "file": "/models/garments/t-shirt-alpine-femme.glb",
+    "bytes": 54552,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-01",
+    "gender": "Homme",
+    "file": "/models/garments/t-shirt-alpine-homme.glb",
+    "bytes": 54572,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-02",
+    "gender": "Femme",
+    "file": "/models/garments/t-shirt-wild-cards-femme.glb",
+    "bytes": 54548,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-02",
+    "gender": "Homme",
+    "file": "/models/garments/t-shirt-wild-cards-homme.glb",
+    "bytes": 54572,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-03",
+    "gender": "Femme",
+    "file": "/models/garments/le-coton-essentiel-femme.glb",
+    "bytes": 54552,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-03",
+    "gender": "Homme",
+    "file": "/models/garments/le-coton-essentiel-homme.glb",
+    "bytes": 54572,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-04",
+    "gender": "Femme",
+    "file": "/models/garments/hoodie-sable-femme.glb",
+    "bytes": 163912,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-04",
+    "gender": "Homme",
+    "file": "/models/garments/hoodie-sable-homme.glb",
+    "bytes": 163920,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-05",
+    "gender": "Femme",
+    "file": "/models/garments/sweat-horizon-femme.glb",
+    "bytes": 94432,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-05",
+    "gender": "Homme",
+    "file": "/models/garments/sweat-horizon-homme.glb",
+    "bytes": 94440,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-06",
+    "gender": "Femme",
+    "file": "/models/garments/hoodie-studio-femme.glb",
+    "bytes": 236144,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-06",
+    "gender": "Homme",
+    "file": "/models/garments/hoodie-studio-homme.glb",
+    "bytes": 236148,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-07",
+    "gender": "Femme",
+    "file": "/models/garments/chemise-medina-femme.glb",
+    "bytes": 319312,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-07",
+    "gender": "Homme",
+    "file": "/models/garments/chemise-medina-homme.glb",
+    "bytes": 319316,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-08",
+    "gender": "Femme",
+    "file": "/models/garments/chemise-aube-femme.glb",
+    "bytes": 386472,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-08",
+    "gender": "Homme",
+    "file": "/models/garments/chemise-aube-homme.glb",
+    "bytes": 386476,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-09",
+    "gender": "Femme",
+    "file": "/models/garments/chemise-riviera-femme.glb",
+    "bytes": 286860,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-09",
+    "gender": "Homme",
+    "file": "/models/garments/chemise-riviera-homme.glb",
+    "bytes": 286884,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-10",
+    "gender": "Femme",
+    "file": "/models/garments/veste-atelier-femme.glb",
+    "bytes": 339772,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-10",
+    "gender": "Homme",
+    "file": "/models/garments/veste-atelier-homme.glb",
+    "bytes": 339780,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-11",
+    "gender": "Femme",
+    "file": "/models/garments/blazer-casablanca-femme.glb",
+    "bytes": 339772,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-11",
+    "gender": "Homme",
+    "file": "/models/garments/blazer-casablanca-homme.glb",
+    "bytes": 339780,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-12",
+    "gender": "Femme",
+    "file": "/models/garments/veste-nomade-femme.glb",
+    "bytes": 319308,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-12",
+    "gender": "Homme",
+    "file": "/models/garments/veste-nomade-homme.glb",
+    "bytes": 319316,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-13",
+    "gender": "Femme",
+    "file": "/models/garments/pantalon-dune-femme.glb",
+    "bytes": 105328,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-13",
+    "gender": "Homme",
+    "file": "/models/garments/pantalon-dune-homme.glb",
+    "bytes": 105332,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-14",
+    "gender": "Femme",
+    "file": "/models/garments/pantalon-epure-femme.glb",
+    "bytes": 105336,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-14",
+    "gender": "Homme",
+    "file": "/models/garments/pantalon-epure-homme.glb",
+    "bytes": 105340,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-15",
+    "gender": "Femme",
+    "file": "/models/garments/pantalon-rivage-femme.glb",
+    "bytes": 105332,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-15",
+    "gender": "Homme",
+    "file": "/models/garments/pantalon-rivage-homme.glb",
+    "bytes": 105336,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-16",
+    "gender": "Femme",
+    "file": "/models/garments/robe-lumiere-femme.glb",
+    "bytes": 42092,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-16",
+    "gender": "Homme",
+    "file": "/models/garments/robe-lumiere-homme.glb",
+    "bytes": 42092,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-17",
+    "gender": "Femme",
+    "file": "/models/garments/robe-sillage-femme.glb",
+    "bytes": 42096,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-17",
+    "gender": "Homme",
+    "file": "/models/garments/robe-sillage-homme.glb",
+    "bytes": 42096,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-18",
+    "gender": "Femme",
+    "file": "/models/garments/robe-patio-femme.glb",
+    "bytes": 360932,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-18",
+    "gender": "Homme",
+    "file": "/models/garments/robe-patio-homme.glb",
+    "bytes": 360932,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-19",
+    "gender": "Femme",
+    "file": "/models/garments/ensemble-meridien-femme.glb",
+    "bytes": 391708,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-19",
+    "gender": "Homme",
+    "file": "/models/garments/ensemble-meridien-homme.glb",
+    "bytes": 391732,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-20",
+    "gender": "Femme",
+    "file": "/models/garments/ensemble-latitude-femme.glb",
+    "bytes": 391708,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-20",
+    "gender": "Homme",
+    "file": "/models/garments/ensemble-latitude-homme.glb",
+    "bytes": 391736,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-21",
+    "gender": "Femme",
+    "file": "/models/garments/ensemble-heure-douce-femme.glb",
+    "bytes": 268772,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-21",
+    "gender": "Homme",
+    "file": "/models/garments/ensemble-heure-douce-homme.glb",
+    "bytes": 268784,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-22",
+    "gender": "Femme",
+    "file": "/models/garments/cabas-quotidien-femme.glb",
+    "bytes": 32564,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-22",
+    "gender": "Homme",
+    "file": "/models/garments/cabas-quotidien-homme.glb",
+    "bytes": 32564,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-23",
+    "gender": "Femme",
+    "file": "/models/garments/echarpe-nuage-femme.glb",
+    "bytes": 251176,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-23",
+    "gender": "Homme",
+    "file": "/models/garments/echarpe-nuage-homme.glb",
+    "bytes": 251176,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-24",
+    "gender": "Femme",
+    "file": "/models/garments/sac-traversee-femme.glb",
+    "bytes": 61840,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "edit-24",
+    "gender": "Homme",
+    "file": "/models/garments/sac-traversee-homme.glb",
+    "bytes": 61840,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-noir",
+    "gender": "Femme",
+    "file": "/models/garments/hoodie-noir-femme.glb",
+    "bytes": 188220,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-noir",
+    "gender": "Homme",
+    "file": "/models/garments/hoodie-noir-homme.glb",
+    "bytes": 188236,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-sable",
+    "gender": "Femme",
+    "file": "/models/garments/hoodie-dune-femme.glb",
+    "bytes": 204444,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-sable",
+    "gender": "Homme",
+    "file": "/models/garments/hoodie-dune-homme.glb",
+    "bytes": 204448,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-olive",
+    "gender": "Femme",
+    "file": "/models/garments/hoodie-olive-femme.glb",
+    "bytes": 184184,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-olive",
+    "gender": "Homme",
+    "file": "/models/garments/hoodie-olive-homme.glb",
+    "bytes": 184192,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-bordeaux",
+    "gender": "Femme",
+    "file": "/models/garments/hoodie-bordeaux-femme.glb",
+    "bytes": 163936,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-bordeaux",
+    "gender": "Homme",
+    "file": "/models/garments/hoodie-bordeaux-homme.glb",
+    "bytes": 163944,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-ecru",
+    "gender": "Femme",
+    "file": "/models/garments/hoodie-ecru-femme.glb",
+    "bytes": 163920,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-ecru",
+    "gender": "Homme",
+    "file": "/models/garments/hoodie-ecru-homme.glb",
+    "bytes": 163928,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-cobalt",
+    "gender": "Femme",
+    "file": "/models/garments/hoodie-cobalt-femme.glb",
+    "bytes": 211860,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-cobalt",
+    "gender": "Homme",
+    "file": "/models/garments/hoodie-cobalt-homme.glb",
+    "bytes": 211864,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-rose",
+    "gender": "Femme",
+    "file": "/models/garments/hoodie-rose-femme.glb",
+    "bytes": 163932,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-rose",
+    "gender": "Homme",
+    "file": "/models/garments/hoodie-rose-homme.glb",
+    "bytes": 163940,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-indigo",
+    "gender": "Femme",
+    "file": "/models/garments/hoodie-indigo-femme.glb",
+    "bytes": 163924,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  },
+  {
+    "productId": "hoodie-indigo",
+    "gender": "Homme",
+    "file": "/models/garments/hoodie-indigo-homme.glb",
+    "bytes": 163936,
+    "representation": "procedural-simplified",
+    "textures": "base-colour-only"
+  }
+]

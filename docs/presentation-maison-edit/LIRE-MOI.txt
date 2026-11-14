@@ -1,0 +1,12 @@
+MAISON EDIT — CAPTURES ET ANIMATIONS
+
+Ouvrez index.html dans votre navigateur pour parcourir la galerie et lire les vidéos.
+Les fichiers PNG sont les captures haute définition. Le fichier 00-vue-ensemble.png est la planche de présentation.
+Les fichiers MP4 présentent le showroom, les transitions d’essayage femme et homme, ainsi qu’une visite de la boutique.
+Le fichier 02-accueil-complet.png montre toute la page d’accueil.
+
+Les captures proviennent du site public de démonstration. Les mannequins présentent les aperçus préparés actuellement disponibles.
+La génération automatique Runware reste en attente de configuration et d’autorisation. Aucune génération facturée n’a été utilisée pour ces captures.
+Les captures conservent les mentions et limites affichées par la boutique.
+
+Les polices incluses servent uniquement à afficher la présentation avec la typographie du projet. Leurs licences sont dans assets.

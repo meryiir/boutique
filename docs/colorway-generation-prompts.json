@@ -1,0 +1,642 @@
+[
+  {
+    "index": 0,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-00-front.webp",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#727a55",
+        "front": "public/images/colorways/item-00-a-front.webp",
+        "back": "public/images/colorways/item-00-a-back.webp"
+      },
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-00-b-front.webp",
+        "back": "public/images/colorways/item-00-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Olive (#727a55). B=Marine (#293950)."
+  },
+  {
+    "index": 1,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-01-front.webp",
+    "colors": [
+      {
+        "name": "Ivoire",
+        "hex": "#e7e0cf",
+        "front": "public/images/colorways/item-01-a-front.webp",
+        "back": "public/images/colorways/item-01-a-back.webp"
+      },
+      {
+        "name": "Bordeaux",
+        "hex": "#692f3a",
+        "front": "public/images/colorways/item-01-b-front.webp",
+        "back": "public/images/colorways/item-01-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Ivoire (#e7e0cf). B=Bordeaux (#692f3a)."
+  },
+  {
+    "index": 2,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-02-front.webp",
+    "colors": [
+      {
+        "name": "Noir",
+        "hex": "#292a2c",
+        "front": "public/images/colorways/item-02-a-front.webp",
+        "back": "public/images/colorways/item-02-a-back.webp"
+      },
+      {
+        "name": "Cobalt",
+        "hex": "#264eac",
+        "front": "public/images/colorways/item-02-b-front.webp",
+        "back": "public/images/colorways/item-02-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Noir (#292a2c). B=Cobalt (#264eac)."
+  },
+  {
+    "index": 3,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-03-front.webp",
+    "colors": [
+      {
+        "name": "Sable",
+        "hex": "#b8a58e",
+        "front": "public/images/colorways/item-03-a-front.webp",
+        "back": "public/images/colorways/item-03-a-back.webp"
+      },
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-03-b-front.webp",
+        "back": "public/images/colorways/item-03-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Sable (#b8a58e). B=Marine (#293950)."
+  },
+  {
+    "index": 4,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-04-front.webp",
+    "colors": [
+      {
+        "name": "Écru",
+        "hex": "#ddd4bf",
+        "front": "public/images/colorways/item-04-a-front.webp",
+        "back": "public/images/colorways/item-04-a-back.webp"
+      },
+      {
+        "name": "Bordeaux",
+        "hex": "#692f3a",
+        "front": "public/images/colorways/item-04-b-front.webp",
+        "back": "public/images/colorways/item-04-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Écru (#ddd4bf). B=Bordeaux (#692f3a)."
+  },
+  {
+    "index": 5,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-05-front.webp",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#727a55",
+        "front": "public/images/colorways/item-05-a-front.webp",
+        "back": "public/images/colorways/item-05-a-back.webp"
+      },
+      {
+        "name": "Rose",
+        "hex": "#cfa6ad",
+        "front": "public/images/colorways/item-05-b-front.webp",
+        "back": "public/images/colorways/item-05-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Olive (#727a55). B=Rose (#cfa6ad)."
+  },
+  {
+    "index": 6,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-06-front.webp",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#727a55",
+        "front": "public/images/colorways/item-06-a-front.webp",
+        "back": "public/images/colorways/item-06-a-back.webp"
+      },
+      {
+        "name": "Bleu ciel",
+        "hex": "#9eb9c9",
+        "front": "public/images/colorways/item-06-b-front.webp",
+        "back": "public/images/colorways/item-06-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Olive (#727a55). B=Bleu ciel (#9eb9c9)."
+  },
+  {
+    "index": 7,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-07-front.webp",
+    "colors": [
+      {
+        "name": "Rose",
+        "hex": "#cfa6ad",
+        "front": "public/images/colorways/item-07-a-front.webp",
+        "back": "public/images/colorways/item-07-a-back.webp"
+      },
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-07-b-front.webp",
+        "back": "public/images/colorways/item-07-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Rose (#cfa6ad). B=Marine (#293950)."
+  },
+  {
+    "index": 8,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-08-front.webp",
+    "colors": [
+      {
+        "name": "Rayé marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-08-a-front.webp",
+        "back": "public/images/colorways/item-08-a-back.webp"
+      },
+      {
+        "name": "Rayé terracotta",
+        "hex": "#ac6b50",
+        "front": "public/images/colorways/item-08-b-front.webp",
+        "back": "public/images/colorways/item-08-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Rayé marine (#293950). B=Rayé terracotta (#ac6b50)."
+  },
+  {
+    "index": 9,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-09-front.webp",
+    "colors": [
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-09-a-front.webp",
+        "back": "public/images/colorways/item-09-a-back.webp"
+      },
+      {
+        "name": "Bordeaux",
+        "hex": "#692f3a",
+        "front": "public/images/colorways/item-09-b-front.webp",
+        "back": "public/images/colorways/item-09-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Marine (#293950). B=Bordeaux (#692f3a)."
+  },
+  {
+    "index": 10,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-10-front.webp",
+    "colors": [
+      {
+        "name": "Sable",
+        "hex": "#b8a58e",
+        "front": "public/images/colorways/item-10-a-front.webp",
+        "back": "public/images/colorways/item-10-a-back.webp"
+      },
+      {
+        "name": "Olive",
+        "hex": "#727a55",
+        "front": "public/images/colorways/item-10-b-front.webp",
+        "back": "public/images/colorways/item-10-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Sable (#b8a58e). B=Olive (#727a55)."
+  },
+  {
+    "index": 11,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-11-front.webp",
+    "colors": [
+      {
+        "name": "Écru",
+        "hex": "#ddd4bf",
+        "front": "public/images/colorways/item-11-a-front.webp",
+        "back": "public/images/colorways/item-11-a-back.webp"
+      },
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-11-b-front.webp",
+        "back": "public/images/colorways/item-11-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Écru (#ddd4bf). B=Marine (#293950)."
+  },
+  {
+    "index": 12,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-12-front.webp",
+    "colors": [
+      {
+        "name": "Noir",
+        "hex": "#292a2c",
+        "front": "public/images/colorways/item-12-a-front.webp",
+        "back": "public/images/colorways/item-12-a-back.webp"
+      },
+      {
+        "name": "Olive",
+        "hex": "#727a55",
+        "front": "public/images/colorways/item-12-b-front.webp",
+        "back": "public/images/colorways/item-12-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Noir (#292a2c). B=Olive (#727a55)."
+  },
+  {
+    "index": 13,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-13-front.webp",
+    "colors": [
+      {
+        "name": "Sable",
+        "hex": "#b8a58e",
+        "front": "public/images/colorways/item-13-a-front.webp",
+        "back": "public/images/colorways/item-13-a-back.webp"
+      },
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-13-b-front.webp",
+        "back": "public/images/colorways/item-13-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Sable (#b8a58e). B=Marine (#293950)."
+  },
+  {
+    "index": 14,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-14-front.webp",
+    "colors": [
+      {
+        "name": "Écru",
+        "hex": "#ddd4bf",
+        "front": "public/images/colorways/item-14-a-front.webp",
+        "back": "public/images/colorways/item-14-a-back.webp"
+      },
+      {
+        "name": "Anthracite",
+        "hex": "#4c4d4b",
+        "front": "public/images/colorways/item-14-b-front.webp",
+        "back": "public/images/colorways/item-14-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Écru (#ddd4bf). B=Anthracite (#4c4d4b)."
+  },
+  {
+    "index": 15,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-15-front.webp",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#727a55",
+        "front": "public/images/colorways/item-15-a-front.webp",
+        "back": "public/images/colorways/item-15-a-back.webp"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#ac6b50",
+        "front": "public/images/colorways/item-15-b-front.webp",
+        "back": "public/images/colorways/item-15-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Olive (#727a55). B=Terracotta (#ac6b50)."
+  },
+  {
+    "index": 16,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-16-front.webp",
+    "colors": [
+      {
+        "name": "Bordeaux",
+        "hex": "#692f3a",
+        "front": "public/images/colorways/item-16-a-front.webp",
+        "back": "public/images/colorways/item-16-a-back.webp"
+      },
+      {
+        "name": "Vert sauge",
+        "hex": "#a0aa8d",
+        "front": "public/images/colorways/item-16-b-front.webp",
+        "back": "public/images/colorways/item-16-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Bordeaux (#692f3a). B=Vert sauge (#a0aa8d)."
+  },
+  {
+    "index": 17,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-17-front.webp",
+    "colors": [
+      {
+        "name": "Ivoire",
+        "hex": "#e7e0cf",
+        "front": "public/images/colorways/item-17-a-front.webp",
+        "back": "public/images/colorways/item-17-a-back.webp"
+      },
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-17-b-front.webp",
+        "back": "public/images/colorways/item-17-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Ivoire (#e7e0cf). B=Marine (#293950)."
+  },
+  {
+    "index": 18,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-18-front.webp",
+    "colors": [
+      {
+        "name": "Noir",
+        "hex": "#292a2c",
+        "front": "public/images/colorways/item-18-a-front.webp",
+        "back": "public/images/colorways/item-18-a-back.webp"
+      },
+      {
+        "name": "Olive",
+        "hex": "#727a55",
+        "front": "public/images/colorways/item-18-b-front.webp",
+        "back": "public/images/colorways/item-18-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Noir (#292a2c). B=Olive (#727a55)."
+  },
+  {
+    "index": 19,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-19-front.webp",
+    "colors": [
+      {
+        "name": "Sable",
+        "hex": "#b8a58e",
+        "front": "public/images/colorways/item-19-a-front.webp",
+        "back": "public/images/colorways/item-19-a-back.webp"
+      },
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-19-b-front.webp",
+        "back": "public/images/colorways/item-19-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Sable (#b8a58e). B=Marine (#293950)."
+  },
+  {
+    "index": 20,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-20-front.webp",
+    "colors": [
+      {
+        "name": "Bordeaux",
+        "hex": "#692f3a",
+        "front": "public/images/colorways/item-20-a-front.webp",
+        "back": "public/images/colorways/item-20-a-back.webp"
+      },
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-20-b-front.webp",
+        "back": "public/images/colorways/item-20-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Bordeaux (#692f3a). B=Marine (#293950)."
+  },
+  {
+    "index": 21,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-21-front.webp",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#727a55",
+        "front": "public/images/colorways/item-21-a-front.webp",
+        "back": "public/images/colorways/item-21-a-back.webp"
+      },
+      {
+        "name": "Noir",
+        "hex": "#292a2c",
+        "front": "public/images/colorways/item-21-b-front.webp",
+        "back": "public/images/colorways/item-21-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Olive (#727a55). B=Noir (#292a2c)."
+  },
+  {
+    "index": 22,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-22-front.webp",
+    "colors": [
+      {
+        "name": "Bordeaux",
+        "hex": "#692f3a",
+        "front": "public/images/colorways/item-22-a-front.webp",
+        "back": "public/images/colorways/item-22-a-back.webp"
+      },
+      {
+        "name": "Anthracite",
+        "hex": "#4c4d4b",
+        "front": "public/images/colorways/item-22-b-front.webp",
+        "back": "public/images/colorways/item-22-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Bordeaux (#692f3a). B=Anthracite (#4c4d4b)."
+  },
+  {
+    "index": 23,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\images\\catalog\\product-23-front.webp",
+    "colors": [
+      {
+        "name": "Noir",
+        "hex": "#292a2c",
+        "front": "public/images/colorways/item-23-a-front.webp",
+        "back": "public/images/colorways/item-23-a-back.webp"
+      },
+      {
+        "name": "Crème",
+        "hex": "#e7e0cf",
+        "front": "public/images/colorways/item-23-b-front.webp",
+        "back": "public/images/colorways/item-23-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Noir (#292a2c). B=Crème (#e7e0cf)."
+  },
+  {
+    "index": 24,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\garments\\hoodie-noir\\front.webp",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#727a55",
+        "front": "public/images/colorways/item-24-a-front.webp",
+        "back": "public/images/colorways/item-24-a-back.webp"
+      },
+      {
+        "name": "Écru",
+        "hex": "#ddd4bf",
+        "front": "public/images/colorways/item-24-b-front.webp",
+        "back": "public/images/colorways/item-24-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Olive (#727a55). B=Écru (#ddd4bf)."
+  },
+  {
+    "index": 25,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\garments\\hoodie-sable\\front.webp",
+    "colors": [
+      {
+        "name": "Noir",
+        "hex": "#292a2c",
+        "front": "public/images/colorways/item-25-a-front.webp",
+        "back": "public/images/colorways/item-25-a-back.webp"
+      },
+      {
+        "name": "Bordeaux",
+        "hex": "#692f3a",
+        "front": "public/images/colorways/item-25-b-front.webp",
+        "back": "public/images/colorways/item-25-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Noir (#292a2c). B=Bordeaux (#692f3a)."
+  },
+  {
+    "index": 26,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\garments\\hoodie-olive\\front.webp",
+    "colors": [
+      {
+        "name": "Sable",
+        "hex": "#b8a58e",
+        "front": "public/images/colorways/item-26-a-front.webp",
+        "back": "public/images/colorways/item-26-a-back.webp"
+      },
+      {
+        "name": "Cobalt",
+        "hex": "#264eac",
+        "front": "public/images/colorways/item-26-b-front.webp",
+        "back": "public/images/colorways/item-26-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Sable (#b8a58e). B=Cobalt (#264eac)."
+  },
+  {
+    "index": 27,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\garments\\hoodie-bordeaux\\front.webp",
+    "colors": [
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-27-a-front.webp",
+        "back": "public/images/colorways/item-27-a-back.webp"
+      },
+      {
+        "name": "Ivoire",
+        "hex": "#e7e0cf",
+        "front": "public/images/colorways/item-27-b-front.webp",
+        "back": "public/images/colorways/item-27-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Marine (#293950). B=Ivoire (#e7e0cf)."
+  },
+  {
+    "index": 28,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\garments\\hoodie-ecru\\front.webp",
+    "colors": [
+      {
+        "name": "Terracotta",
+        "hex": "#ac6b50",
+        "front": "public/images/colorways/item-28-a-front.webp",
+        "back": "public/images/colorways/item-28-a-back.webp"
+      },
+      {
+        "name": "Anthracite",
+        "hex": "#4c4d4b",
+        "front": "public/images/colorways/item-28-b-front.webp",
+        "back": "public/images/colorways/item-28-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Terracotta (#ac6b50). B=Anthracite (#4c4d4b)."
+  },
+  {
+    "index": 29,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\garments\\hoodie-cobalt\\front.webp",
+    "colors": [
+      {
+        "name": "Écru",
+        "hex": "#ddd4bf",
+        "front": "public/images/colorways/item-29-a-front.webp",
+        "back": "public/images/colorways/item-29-a-back.webp"
+      },
+      {
+        "name": "Noir",
+        "hex": "#292a2c",
+        "front": "public/images/colorways/item-29-b-front.webp",
+        "back": "public/images/colorways/item-29-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Écru (#ddd4bf). B=Noir (#292a2c)."
+  },
+  {
+    "index": 30,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\garments\\hoodie-rose\\front.webp",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#727a55",
+        "front": "public/images/colorways/item-30-a-front.webp",
+        "back": "public/images/colorways/item-30-a-back.webp"
+      },
+      {
+        "name": "Marine",
+        "hex": "#293950",
+        "front": "public/images/colorways/item-30-b-front.webp",
+        "back": "public/images/colorways/item-30-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Olive (#727a55). B=Marine (#293950)."
+  },
+  {
+    "index": 31,
+    "tool": "built-in image_gen",
+    "reference": "C:\\Users\\pc\\Documents\\boutique\\public\\garments\\hoodie-indigo\\front.webp",
+    "colors": [
+      {
+        "name": "Sable",
+        "hex": "#b8a58e",
+        "front": "public/images/colorways/item-31-a-front.webp",
+        "back": "public/images/colorways/item-31-a-back.webp"
+      },
+      {
+        "name": "Bordeaux",
+        "hex": "#692f3a",
+        "front": "public/images/colorways/item-31-b-front.webp",
+        "back": "public/images/colorways/item-31-b-back.webp"
+      }
+    ],
+    "prompt": "Use case: precise-object-edit. EDIT TARGET is the provided fashion product photograph. Create TWO additional colourways of this exact item for ecommerce. Photorealistic studio photography, preserve the exact design, silhouette, material, weave, construction, all pockets, hardware, buttons, stitching, print/embroidery placement and pattern, sleeve and hem lengths. For two-piece outfits recolour BOTH garments consistently. For printed tops preserve the original artwork colours; recolour only base fabric. For striped shirt preserve stripe widths and cream ground, change only stripe colour. For bags keep hardware and dark leather handles, recolour main body; no new product details. Layout EXACTLY FOUR equally sized panels in a 2x2 grid. TOP ROW colourway A: FRONT left, BACK right. BOTTOM ROW colourway B: FRONT left, BACK right. Every item completely contained with 6% clean margins, same scale and same fixed camera and lighting in all cells. True transparent alpha background outside subject, no backdrop rectangles, white/grey squares, border, cast shadow, labels, text, watermark or new logos. Where the back is not visible in reference, make a coherent plain back consistent with construction, this is a fictional fashion concept. Only change colour; no redesign. Colours: A=Sable (#b8a58e). B=Bordeaux (#692f3a)."
+  }
+]

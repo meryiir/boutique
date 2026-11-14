@@ -1,0 +1,499 @@
+[
+  {
+    "id": "aube-atelier-dune-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-08",
+        "color": "Ivoire"
+      },
+      {
+        "productId": "edit-10",
+        "color": "Sable"
+      },
+      {
+        "productId": "edit-13",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/aube-atelier-dune-v1.webp",
+    "differences": [
+      "Les plis et finitions sont reconstitués."
+    ],
+    "alt": "Mannequin femme portant Chemise Aube Ivoire, Veste Atelier Sable, Pantalon Dune Sable"
+  },
+  {
+    "id": "wild-dune-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-02",
+        "color": "Rose"
+      },
+      {
+        "productId": "edit-13",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/wild-dune-v1.webp",
+    "differences": [
+      "Les plis et finitions sont reconstitués."
+    ],
+    "alt": "Mannequin femme portant T-shirt Wild Cards Rose, Pantalon Dune Sable"
+  },
+  {
+    "id": "medina-epure-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-07",
+        "color": "Sable"
+      },
+      {
+        "productId": "edit-14",
+        "color": "Anthracite"
+      }
+    ],
+    "image": "/images/fitting/prepared/medina-epure-v1.webp",
+    "differences": [
+      "Les plis et finitions sont reconstitués."
+    ],
+    "alt": "Mannequin homme portant Chemise Medina Sable, Pantalon Épure Anthracite"
+  },
+  {
+    "id": "medina-rivage-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-07",
+        "color": "Sable"
+      },
+      {
+        "productId": "edit-15",
+        "color": "Olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/medina-rivage-v1.webp",
+    "differences": [
+      "Les plis et finitions sont reconstitués."
+    ],
+    "alt": "Mannequin homme portant Chemise Medina Sable, Pantalon Rivage Olive"
+  },
+  {
+    "id": "medina-nomade-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-07",
+        "color": "Sable"
+      },
+      {
+        "productId": "edit-12",
+        "color": "Olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/medina-nomade-v1.webp",
+    "differences": [
+      "Les plis et finitions sont reconstitués."
+    ],
+    "alt": "Mannequin homme portant Chemise Medina Sable, Veste Nomade Olive"
+  },
+  {
+    "id": "medina-cabas-v1",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-07",
+        "color": "Sable"
+      },
+      {
+        "productId": "edit-22",
+        "color": "Naturel"
+      }
+    ],
+    "image": "/images/fitting/prepared/medina-cabas-v1.webp",
+    "differences": [
+      "Les plis et finitions sont reconstitués."
+    ],
+    "alt": "Mannequin homme portant Chemise Medina Sable, Cabas Quotidien Naturel"
+  },
+  {
+    "id": "aube-atelier-v1",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-08",
+        "color": "Ivoire"
+      },
+      {
+        "productId": "edit-10",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/aube-atelier-v1.webp",
+    "differences": [
+      "Les plis et finitions sont reconstitués."
+    ],
+    "alt": "Mannequin femme portant Chemise Aube Ivoire, Veste Atelier Sable"
+  },
+  {
+    "id": "edit-02-homme-rose",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-02",
+        "color": "Rose"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-02-homme-rose.webp",
+    "alt": "Mannequin homme portant T-shirt Wild Cards, couleur Rose",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-04-homme-terre",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-04",
+        "color": "Terre"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-04-homme-terre.webp",
+    "alt": "Mannequin homme portant Hoodie Sable, couleur Terre",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-07-femme-sable",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-07",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-07-femme-sable.webp",
+    "alt": "Mannequin femme portant Chemise Medina, couleur Sable",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-12-femme-olive",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-12",
+        "color": "Olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-12-femme-olive.webp",
+    "alt": "Mannequin femme portant Veste Nomade, couleur Olive",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-21-femme-pierre",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-21",
+        "color": "Pierre"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-21-femme-pierre.webp",
+    "alt": "Mannequin femme portant Ensemble Heure douce, couleur Pierre",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-22-femme-naturel",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-22",
+        "color": "Naturel"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-22-femme-naturel.webp",
+    "alt": "Mannequin femme portant Cabas Quotidien, couleur Naturel",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-23-femme-avoine",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-23",
+        "color": "Avoine"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-23-femme-avoine.webp",
+    "alt": "Mannequin femme portant Écharpe Nuage, couleur Avoine",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-24-homme-cognac",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-24",
+        "color": "Cognac"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-24-homme-cognac.webp",
+    "alt": "Mannequin homme portant Sac Traversée, couleur Cognac",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-noir-femme-charbon",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "hoodie-noir",
+        "color": "Charbon"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-noir-femme-charbon.webp",
+    "alt": "Mannequin femme portant Hoodie Nocturne, couleur Charbon",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-sable-homme-sable",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "hoodie-sable",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-sable-homme-sable.webp",
+    "alt": "Mannequin homme portant Hoodie Dune, couleur Sable",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-olive-femme-olive",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "hoodie-olive",
+        "color": "Olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-olive-femme-olive.webp",
+    "alt": "Mannequin femme portant Hoodie Terrain, couleur Olive",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-bordeaux-homme-bordeaux",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "hoodie-bordeaux",
+        "color": "Bordeaux"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-bordeaux-homme-bordeaux.webp",
+    "alt": "Mannequin homme portant Hoodie Sillage, couleur Bordeaux",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-ecru-femme-ecru",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "hoodie-ecru",
+        "color": "Écru"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-ecru-femme-ecru.webp",
+    "alt": "Mannequin femme portant Hoodie Texture, couleur Écru",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-cobalt-femme-cobalt",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "hoodie-cobalt",
+        "color": "Cobalt"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-cobalt-femme-cobalt.webp",
+    "alt": "Mannequin femme portant Hoodie Électrique, couleur Cobalt",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-rose-homme-rose-poudre",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "hoodie-rose",
+        "color": "Rose poudré"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-rose-homme-rose-poudre.webp",
+    "alt": "Mannequin homme portant Hoodie Rosée, couleur Rose poudré",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-indigo-femme-indigo",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "hoodie-indigo",
+        "color": "Indigo"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-indigo-femme-indigo.webp",
+    "alt": "Mannequin femme portant Hoodie Fragment, couleur Indigo",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-01-femme-olive",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-01",
+        "color": "Olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-01-femme-olive.webp",
+    "alt": "Mannequin femme portant T-shirt Alpine, couleur Olive",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-01-homme-olive",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-01",
+        "color": "Olive"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-01-homme-olive.webp",
+    "alt": "Mannequin homme portant T-shirt Alpine, couleur Olive",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-01-femme-marine",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "edit-01",
+        "color": "Marine"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-01-femme-marine.webp",
+    "alt": "Mannequin femme portant T-shirt Alpine, couleur Marine",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "edit-01-homme-marine",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "edit-01",
+        "color": "Marine"
+      }
+    ],
+    "image": "/images/fitting/prepared/edit-01-homme-marine.webp",
+    "alt": "Mannequin homme portant T-shirt Alpine, couleur Marine",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-indigo-homme-sable",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "hoodie-indigo",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-indigo-homme-sable.webp",
+    "alt": "Mannequin homme portant Hoodie Fragment, couleur Sable",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-indigo-femme-sable",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "hoodie-indigo",
+        "color": "Sable"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-indigo-femme-sable.webp",
+    "alt": "Mannequin femme portant Hoodie Fragment, couleur Sable",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-indigo-homme-bordeaux",
+    "gender": "Homme",
+    "items": [
+      {
+        "productId": "hoodie-indigo",
+        "color": "Bordeaux"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-indigo-homme-bordeaux.webp",
+    "alt": "Mannequin homme portant Hoodie Fragment, couleur Bordeaux",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  },
+  {
+    "id": "hoodie-indigo-femme-bordeaux",
+    "gender": "Femme",
+    "items": [
+      {
+        "productId": "hoodie-indigo",
+        "color": "Bordeaux"
+      }
+    ],
+    "image": "/images/fitting/prepared/hoodie-indigo-femme-bordeaux.webp",
+    "alt": "Mannequin femme portant Hoodie Fragment, couleur Bordeaux",
+    "differences": [
+      "Les plis, coutures et petits détails sont reconstitués."
+    ]
+  }
+]

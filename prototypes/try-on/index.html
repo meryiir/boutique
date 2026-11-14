@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MAISON ÉDIT · Prototype d’essayage</title>
+  <link rel="stylesheet" href="/style.css">
+  <script type="module" src="/ui.js"></script>
+</head>
+<body>
+  <header>MAISON ÉDIT <small>LABORATOIRE D’ESSAYAGE</small></header>
+  <main>
+    <h1>Essayage <em>automatisé.</em></h1>
+    <p id="engine"></p>
+    <div class="layout">
+      <section aria-labelledby="preview-title">
+        <h2 id="preview-title">Mannequin de référence</h2>
+        <img id="result" src="/image/reference" alt="Mannequin femme Maison Édit">
+        <p id="worn"></p>
+        <p id="render-state" role="status"></p>
+        <p id="status" role="status"></p>
+        <p id="error" role="alert"></p>
+      </section>
+      <div>
+        <form id="outfit">
+          <h2>Tenue sélectionnée</h2>
+          <label>Haut <select name="tops"></select></label>
+          <label>Pantalon <select name="bottoms"></select></label>
+          <label>Robe ou pièce entière <select name="one-pieces"></select></label>
+          <label>Veste <select name="outerwear"></select></label>
+          <p>Le choix remplace la pièce du même emplacement et conserve les autres pièces compatibles.</p>
+          <ul id="selected" aria-label="Articles sélectionnés"></ul>
+          <div id="references" aria-label="Photos des variantes sélectionnées"></div>
+          <button disabled>Vérification du moteur…</button>
+          <p id="availability" role="status"></p>
+          <p>« Aucun article » retire uniquement la pièce concernée. La composition haut + pantalon enchaîne deux passages expérimentaux. Le rendu des vestes superposées reste indisponible.</p>
+        </form>
+        <form id="import">
+          <h2>Importer une variante</h2>
+          <label>Article <input name="name" required maxlength="100"></label>
+          <label>Couleur ou référence de variante <input name="variant" required maxlength="100"></label>
+          <label>Catégorie <select name="category"><option value="tops">Haut</option><option value="bottoms">Pantalon</option><option value="one-pieces">Robe ou pièce entière</option><option value="outerwear">Veste · rendu non pris en charge</option></select></label>
+          <label>Genre <select name="gender"><option>Femme</option><option>Mixte</option><option>Homme</option></select></label>
+          <label>Photo du vêtement <input type="file" name="photo" accept="image/jpeg,image/png,image/webp" required></label>
+          <button>Importer</button>
+          <p id="import-status" role="status"></p>
+        </form>
+      </div>
+    </div>
+  </main>
+</body>
+</html>

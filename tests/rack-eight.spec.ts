@@ -37,7 +37,7 @@ test('Huit hoodies : dernier accessible au toucher et largeur 714 sans débordem
   expect(await page.locator('.rack-scroll').evaluate(el => el.scrollLeft)).toBeGreaterThan(500);
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
   await page.screenshot({ path: 'docs/screenshots/showroom-eight-mobile.png' });
-  await page.locator('.rack-controls a').tap();
+  await page.locator('#wardrobe').getByRole('link',{name:'Découvrir la pièce',exact:true}).tap();
   await expect(page).toHaveURL(/hoodie-indigo/);
   await page.setViewportSize({ width: 714, height: 615 });
   await page.goto('/');

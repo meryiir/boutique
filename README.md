@@ -1,4 +1,9 @@
+Le studio utilise les mannequins photo d’origine et une tenue par visite de page. Les [aperçus préparés](docs/FITTING-PREPARED.md) et l’[inventaire des rendus](docs/INVENTAIRE-ESSAYAGE.json) décrivent les couleurs et associations disponibles.
+
 # MAISON ÉDIT
+
+**Couleurs et zoom :** les 32 références disposent maintenant d’au moins trois couleurs avec des fichiers distincts, des variantes par taille et la bonne couleur dans le panier. Zoom au survol sur les fiches et les aperçus rapides ; visualiseur mobile et clavier réglable de 100 à 400 %. Détails, assets et prompts : [docs/COULEURS-ZOOM.md](docs/COULEURS-ZOOM.md).
+
 
 **Catalogue entièrement photoréaliste :** les 32 produits des huit catégories utilisent maintenant des visuels raster générés. Les 24 pièces initiales ont des vues face/dos ; la capsule de huit hoodies conserve ses rotations coordonnées. Voir [docs/CATALOGUE-PHOTOREALISTE.md](docs/CATALOGUE-PHOTOREALISTE.md) pour les assets, prompts et limites. Build et 15 scénarios Playwright validés.
 

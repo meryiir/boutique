@@ -21,6 +21,8 @@ function loadManifest(garment: string) {
 export function GarmentViewer({ garment, active, visible = true, alt }: { garment: string; active: boolean; visible?: boolean; alt: string }) {
  const canvas = useRef<HTMLCanvasElement>(null), controller = useRef<GarmentController | null>(null);
  const raf = useRef(0), last = useRef(0);
+ const [activated,setActivated]=useState(visible);
+ useEffect(()=>{if(visible)setActivated(true);},[visible]);
  const [ready, setReady] = useState(false), [failed, setFailed] = useState(false), [reduced, setReduced] = useState(false);
  const [loadedVersion, setLoadedVersion] = useState(0);
  useEffect(() => {
@@ -30,7 +32,7 @@ export function GarmentViewer({ garment, active, visible = true, alt }: { garmen
  }, []);
  useEffect(() => {
   let cancelled = false; setReady(false); setFailed(false);
-  if (visible) Promise.all([loadManifest(garment), loadAtlas(`/garments/${garment}/${matchMedia('(max-width: 700px)').matches ? 'atlas-mobile.webp' : 'atlas.webp'}`)]).then(([manifest, image]) => {
+  if (activated) Promise.all([loadManifest(garment), loadAtlas(`/garments/${garment}/${matchMedia('(max-width: 700px)').matches ? 'atlas-mobile.webp' : 'atlas.webp'}`)]).then(([manifest, image]) => {
    if (cancelled) return;
    const rows = Math.ceil(manifest.frameCount / manifest.columns);
    const paint = (frame: number) => {
@@ -45,12 +47,12 @@ export function GarmentViewer({ garment, active, visible = true, alt }: { garmen
    paint(0); setReady(true); setLoadedVersion(version => version + 1);
   }).catch(() => { if (!cancelled) setFailed(true); });
   return () => { cancelled = true; cancelAnimationFrame(raf.current); };
- }, [garment, visible]);
+ }, [garment, activated]);
  useEffect(() => {
   const current = controller.current; if (!current || !ready) return;
   cancelAnimationFrame(raf.current); last.current = 0;
   current.setTarget(active ? 1 : 0, { immediate: reduced });
-  if (!visible || document.hidden) return;
+  if (document.hidden) return;
   const step = (time: number) => {
    const delta = last.current ? Math.min(50, time - last.current) : 16; last.current = time;
    if (current.step(delta)) raf.current = requestAnimationFrame(step);

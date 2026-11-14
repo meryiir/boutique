@@ -3,6 +3,8 @@ import { products, categories } from '../data/products';
 test.use({ trace: 'off' });
 
 test('Toutes les catégories utilisent des visuels raster photoréalistes', async ({ request }) => {
+  // This checks every front/back variant over the public network, not one page.
+  test.setTimeout(180000);
   expect(categories).toHaveLength(8);
   expect(products).toHaveLength(32);
   for (const product of products) {

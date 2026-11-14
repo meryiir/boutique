@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14T20:24:50.963Z",
+  "provider": "free",
+  "records": [
+    {
+      "path": "/import",
+      "status": 201,
+      "seconds": 0.06,
+      "value": {
+        "id": "735d86fa-4e4a-4ddc-932a-63c93eda6f2c"
+      }
+    },
+    {
+      "path": "/try",
+      "status": 502,
+      "seconds": 2.09,
+      "value": {
+        "error": "Démonstrateur gratuit indisponible pour cet essai."
+      }
+    },
+    {
+      "unverified": [
+        "importe",
+        "composition",
+        "remplacement",
+        "retrait"
+      ],
+      "reason": "Le fournisseur ne retourne aucun résultat pour cet essai."
+    }
+  ]
+}
